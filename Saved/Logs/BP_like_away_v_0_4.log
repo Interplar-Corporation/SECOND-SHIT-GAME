@@ -1196,3 +1196,410 @@ Make sure 'GameplayMenu_C' has been compiled for  Get Gameplay Continue Visibili
 [2019.01.14-19.14.17:923][ 83]LogSavePackage: Moving 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/MainMenu_BuiltData53866F59454757E7CD416EBB74E9DB46.tmp' to 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Maps/MainMenu_BuiltData.uasset'
 [2019.01.14-19.14.19:919][289]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interface/GamePlayMenu" FILE="C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Interface/GamePlayMenu.uasset" SILENT=true
 [2019.01.14-19.14.19:958][289]LogSavePackage: Moving 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/GamePlayMenuDCEBD460421991FB558AF3A3B14B46E8.tmp' to 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Interface/GamePlayMenu.uasset'
+[2019.01.14-19.15.14:785][250]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.14-19.15.14:785][250]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.14-19.16.45:252][786]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.14-19.16.45:252][786]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.14-19.19.55:203][588]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.14-19.19.55:652][588]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.01.14-19.19.55:653][588]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.01.14-19.19.55:658][588]LogPlayLevel: [PlayLevel] Compiling GameplayMenu before play...
+[2019.01.14-19.19.55:665][588]LogClass: Warning: Type mismatch in invisible of GameplayMenu_C - Previous (ObjectProperty) Current(BoolProperty) for package:  FObjectReader
+[2019.01.14-19.19.55:933][588]LogPlayLevel: PlayLevel: Blueprint regeneration took 280 ms (1 blueprints)
+[2019.01.14-19.19.55:933][588]PIE: New page: PIE session: MainMenu (15 янв. 2019 г., 1:19:55)
+[2019.01.14-19.19.55:933][588]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2019.01.14-19.19.55:936][588]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002273s)
+[2019.01.14-19.19.55:936][588]LogAIModule: Creating AISystem for world MainMenu
+[2019.01.14-19.19.55:936][588]LogPlayLevel: PIE: World Init took: (0.000637s)
+[2019.01.14-19.19.55:936][588]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.003021s)
+[2019.01.14-19.19.56:048][588]LogInit: XAudio2 using 'Наушники (Устройство с поддержкой High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.14-19.19.56:066][588]LogInit: FAudioDevice initialized.
+[2019.01.14-19.19.56:096][588]LogLoad: Game class is 'MainGameMode_C'
+[2019.01.14-19.19.56:097][588]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2019.01.14-22.19.56
+[2019.01.14-19.19.56:097][588]LogWorld: Bringing up level for play took: 0.000701
+[2019.01.14-19.19.56:111][588]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.14-19.19.56:111][588]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMenu 1,392
+[2019.01.14-19.19.56:111][588]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.01.14-19.19.57:134][692]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-19.19.57:244][705]LogNet: Browse: /Game/Maps/MainWorld
+[2019.01.14-19.19.57:244][705]LogLoad: LoadMap: /Game/Maps/MainWorld
+[2019.01.14-19.19.57:353][705]LogAIModule: Creating AISystem for world MainWorld
+[2019.01.14-19.19.57:353][705]LogLoad: Game class is 'MainGameMode_C'
+[2019.01.14-19.19.57:355][705]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainWorld.MainWorld up for play (max tick rate 0) at 2019.01.14-22.19.57
+[2019.01.14-19.19.57:355][705]LogWorld: Bringing up level for play took: 0.000799
+[2019.01.14-19.19.57:356][705]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.14-19.19.57:356][705]LogLoad: Took 0.112607 seconds to LoadMap(/Game/Maps/MainWorld)
+[2019.01.14-19.19.58:801][876]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-19.19.58:935][892]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.01.14-19.19.58:936][892]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.14-19.19.58:973][892]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.14-19.19.58:974][892]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.01.14-19.19.59:067][892]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.14-19.19.59:084][893]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.01.14-19.24.21:059][176]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MainMenu' took 0.093
+[2019.01.14-19.24.21:061][176]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Interface/GamePlayMenu] ([1] browsable assets)...
+[2019.01.14-19.24.21:061][176]OBJ SavePackage: Finished generating thumbnails for package [/Game/Interface/GamePlayMenu]
+[2019.01.14-19.24.21:094][176]LogSavePackage: Moving 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/GamePlayMenu_Auto446628F4849C403B83B5E52B722DA0AF6.tmp' to 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/Autosaves/Game/Interface/GamePlayMenu_Auto4.uasset'
+[2019.01.14-19.24.21:104][176]LogFileHelpers: Auto-saving content packages took 0.043
+[2019.01.14-19.26.27:101][774]BlueprintLog: New page: Compile GameplayMenu
+[2019.01.14-19.27.13:231][641]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.14-19.27.13:259][641]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.01.14-19.27.13:259][641]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.14-19.27.13:260][641]PIE: New page: PIE session: MainMenu (15 янв. 2019 г., 1:27:13)
+[2019.01.14-19.27.13:260][641]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2019.01.14-19.27.13:262][641]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002529s)
+[2019.01.14-19.27.13:263][641]LogAIModule: Creating AISystem for world MainMenu
+[2019.01.14-19.27.13:263][641]LogPlayLevel: PIE: World Init took: (0.000649s)
+[2019.01.14-19.27.13:263][641]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.003300s)
+[2019.01.14-19.27.13:374][641]LogInit: XAudio2 using 'Наушники (Устройство с поддержкой High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.14-19.27.13:389][641]LogInit: FAudioDevice initialized.
+[2019.01.14-19.27.13:420][641]LogLoad: Game class is 'MainGameMode_C'
+[2019.01.14-19.27.13:421][641]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2019.01.14-22.27.13
+[2019.01.14-19.27.13:421][641]LogWorld: Bringing up level for play took: 0.000699
+[2019.01.14-19.27.13:435][641]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.14-19.27.13:435][641]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMenu 0,716
+[2019.01.14-19.27.13:435][641]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.01.14-19.27.16:009][945]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-19.27.16:085][954]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.01.14-19.27.16:086][954]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.14-19.27.16:127][954]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.14-19.27.16:127][954]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.01.14-19.27.16:211][954]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.14-19.27.16:229][955]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.01.14-19.27.27:377][876]BlueprintLog: New page: Compile GameplayMenu
+[2019.01.14-19.27.29:839][ 77]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.14-19.27.29:858][ 77]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.01.14-19.27.29:858][ 77]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.14-19.27.29:858][ 77]PIE: New page: PIE session: MainMenu (15 янв. 2019 г., 1:27:29)
+[2019.01.14-19.27.29:858][ 77]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2019.01.14-19.27.29:860][ 77]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002267s)
+[2019.01.14-19.27.29:861][ 77]LogAIModule: Creating AISystem for world MainMenu
+[2019.01.14-19.27.29:861][ 77]LogPlayLevel: PIE: World Init took: (0.000606s)
+[2019.01.14-19.27.29:861][ 77]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.002985s)
+[2019.01.14-19.27.29:974][ 77]LogInit: XAudio2 using 'Наушники (Устройство с поддержкой High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.14-19.27.29:986][ 77]LogInit: FAudioDevice initialized.
+[2019.01.14-19.27.30:020][ 77]LogLoad: Game class is 'MainGameMode_C'
+[2019.01.14-19.27.30:021][ 77]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2019.01.14-22.27.30
+[2019.01.14-19.27.30:022][ 77]LogWorld: Bringing up level for play took: 0.000602
+[2019.01.14-19.27.30:035][ 77]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.14-19.27.30:035][ 77]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMenu -0,684
+[2019.01.14-19.27.30:035][ 77]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.01.14-19.27.31:058][197]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-19.27.31:151][208]LogNet: Browse: /Game/Maps/MainWorld
+[2019.01.14-19.27.31:151][208]LogLoad: LoadMap: /Game/Maps/MainWorld
+[2019.01.14-19.27.31:262][208]LogAIModule: Creating AISystem for world MainWorld
+[2019.01.14-19.27.31:262][208]LogLoad: Game class is 'MainGameMode_C'
+[2019.01.14-19.27.31:264][208]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainWorld.MainWorld up for play (max tick rate 0) at 2019.01.14-22.27.31
+[2019.01.14-19.27.31:264][208]LogWorld: Bringing up level for play took: 0.000785
+[2019.01.14-19.27.31:265][208]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.14-19.27.31:265][208]LogLoad: Took 0.114075 seconds to LoadMap(/Game/Maps/MainWorld)
+[2019.01.14-19.27.31:858][278]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-19.27.40:990][368]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.01.14-19.27.40:991][368]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.14-19.27.41:025][368]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.14-19.27.41:026][368]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.01.14-19.27.41:117][368]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.14-19.27.41:150][369]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.01.14-19.28.18:204][312]BlueprintLog: New page: Compile GameplayMenu
+[2019.01.14-19.28.23:878][815]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.14-19.28.23:898][815]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.01.14-19.28.23:898][815]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.14-19.28.23:899][815]PIE: New page: PIE session: MainMenu (15 янв. 2019 г., 1:28:23)
+[2019.01.14-19.28.23:899][815]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2019.01.14-19.28.23:901][815]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002357s)
+[2019.01.14-19.28.23:902][815]LogAIModule: Creating AISystem for world MainMenu
+[2019.01.14-19.28.23:902][815]LogPlayLevel: PIE: World Init took: (0.000899s)
+[2019.01.14-19.28.23:902][815]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.003391s)
+[2019.01.14-19.28.24:013][815]LogInit: XAudio2 using 'Наушники (Устройство с поддержкой High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.14-19.28.24:029][815]LogInit: FAudioDevice initialized.
+[2019.01.14-19.28.24:058][815]LogLoad: Game class is 'MainGameMode_C'
+[2019.01.14-19.28.24:060][815]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2019.01.14-22.28.24
+[2019.01.14-19.28.24:060][815]LogWorld: Bringing up level for play took: 0.000738
+[2019.01.14-19.28.24:074][815]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.14-19.28.24:074][815]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMenu -0,645
+[2019.01.14-19.28.24:074][815]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.01.14-19.28.24:966][919]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-19.28.25:050][929]LogNet: Browse: /Game/Maps/MainWorld
+[2019.01.14-19.28.25:051][929]LogLoad: LoadMap: /Game/Maps/MainWorld
+[2019.01.14-19.28.25:167][929]LogAIModule: Creating AISystem for world MainWorld
+[2019.01.14-19.28.25:168][929]LogLoad: Game class is 'MainGameMode_C'
+[2019.01.14-19.28.25:169][929]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainWorld.MainWorld up for play (max tick rate 0) at 2019.01.14-22.28.25
+[2019.01.14-19.28.25:170][929]LogWorld: Bringing up level for play took: 0.001024
+[2019.01.14-19.28.25:171][929]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.14-19.28.25:171][929]LogLoad: Took 0.120596 seconds to LoadMap(/Game/Maps/MainWorld)
+[2019.01.14-19.28.25:792][  1]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-19.28.34:567][ 52]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.01.14-19.28.34:568][ 52]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.14-19.28.34:603][ 52]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.14-19.28.34:604][ 52]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.01.14-19.28.34:697][ 52]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.14-19.28.34:715][ 53]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.01.14-19.28.43:841][747]BlueprintLog: New page: Compile GameplayMenu
+[2019.01.14-19.28.46:638][851]LogSlate: Window 'Tutorials' being destroyed
+[2019.01.14-19.28.48:118][ 11]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.14-19.28.48:137][ 11]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.01.14-19.28.48:137][ 11]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.14-19.28.48:137][ 11]PIE: New page: PIE session: MainMenu (15 янв. 2019 г., 1:28:48)
+[2019.01.14-19.28.48:137][ 11]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2019.01.14-19.28.48:140][ 11]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002260s)
+[2019.01.14-19.28.48:140][ 11]LogAIModule: Creating AISystem for world MainMenu
+[2019.01.14-19.28.48:140][ 11]LogPlayLevel: PIE: World Init took: (0.000660s)
+[2019.01.14-19.28.48:140][ 11]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.003033s)
+[2019.01.14-19.28.48:243][ 11]LogInit: XAudio2 using 'Наушники (Устройство с поддержкой High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.14-19.28.48:255][ 11]LogInit: FAudioDevice initialized.
+[2019.01.14-19.28.48:292][ 11]LogLoad: Game class is 'MainGameMode_C'
+[2019.01.14-19.28.48:293][ 11]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2019.01.14-22.28.48
+[2019.01.14-19.28.48:293][ 11]LogWorld: Bringing up level for play took: 0.000659
+[2019.01.14-19.28.48:308][ 11]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.14-19.28.48:308][ 11]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMenu -0,411
+[2019.01.14-19.28.48:308][ 11]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.01.14-19.28.49:035][ 93]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-19.28.49:111][102]LogNet: Browse: /Game/Maps/MainWorld
+[2019.01.14-19.28.49:111][102]LogLoad: LoadMap: /Game/Maps/MainWorld
+[2019.01.14-19.28.49:225][102]LogAIModule: Creating AISystem for world MainWorld
+[2019.01.14-19.28.49:226][102]LogLoad: Game class is 'MainGameMode_C'
+[2019.01.14-19.28.49:227][102]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainWorld.MainWorld up for play (max tick rate 0) at 2019.01.14-22.28.49
+[2019.01.14-19.28.49:227][102]LogWorld: Bringing up level for play took: 0.000740
+[2019.01.14-19.28.49:228][102]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.14-19.28.49:229][102]LogLoad: Took 0.117479 seconds to LoadMap(/Game/Maps/MainWorld)
+[2019.01.14-19.28.49:692][156]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-19.28.58:385][189]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.01.14-19.28.58:386][189]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.14-19.28.58:425][189]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.14-19.28.58:426][189]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.01.14-19.28.58:522][189]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.14-19.28.58:540][190]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2019.01.14-19.29.07:207][967]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.14-19.29.07:225][967]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.01.14-19.29.07:226][967]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.14-19.29.07:226][967]PIE: New page: PIE session: MainMenu (15 янв. 2019 г., 1:29:07)
+[2019.01.14-19.29.07:226][967]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2019.01.14-19.29.07:228][967]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002273s)
+[2019.01.14-19.29.07:229][967]LogAIModule: Creating AISystem for world MainMenu
+[2019.01.14-19.29.07:229][967]LogPlayLevel: PIE: World Init took: (0.000644s)
+[2019.01.14-19.29.07:229][967]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.003026s)
+[2019.01.14-19.29.07:334][967]LogInit: XAudio2 using 'Наушники (Устройство с поддержкой High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.14-19.29.07:347][967]LogInit: FAudioDevice initialized.
+[2019.01.14-19.29.07:380][967]LogLoad: Game class is 'MainGameMode_C'
+[2019.01.14-19.29.07:382][967]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2019.01.14-22.29.07
+[2019.01.14-19.29.07:382][967]LogWorld: Bringing up level for play took: 0.000792
+[2019.01.14-19.29.07:396][967]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.14-19.29.07:396][967]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMenu 0,677
+[2019.01.14-19.29.07:396][967]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.01.14-19.29.08:369][ 77]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-19.29.08:471][ 89]LogNet: Browse: /Game/Maps/MainWorld
+[2019.01.14-19.29.08:471][ 89]LogLoad: LoadMap: /Game/Maps/MainWorld
+[2019.01.14-19.29.08:573][ 89]LogAIModule: Creating AISystem for world MainWorld
+[2019.01.14-19.29.08:573][ 89]LogLoad: Game class is 'MainGameMode_C'
+[2019.01.14-19.29.08:574][ 89]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainWorld.MainWorld up for play (max tick rate 0) at 2019.01.14-22.29.08
+[2019.01.14-19.29.08:575][ 89]LogWorld: Bringing up level for play took: 0.000781
+[2019.01.14-19.29.08:577][ 89]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.14-19.29.08:577][ 89]LogLoad: Took 0.105907 seconds to LoadMap(/Game/Maps/MainWorld)
+[2019.01.14-19.29.09:552][203]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-19.29.10:924][366]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.01.14-19.29.10:924][366]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.14-19.29.10:961][366]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.14-19.29.10:962][366]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.01.14-19.29.11:041][366]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.14-19.29.11:062][367]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2019.01.14-19.30.21:061][791]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.14-19.30.21:080][791]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.01.14-19.30.21:080][791]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.01.14-19.30.21:086][791]LogPlayLevel: [PlayLevel] Compiling GameplayMenu before play...
+[2019.01.14-19.30.21:344][791]LogPlayLevel: PlayLevel: Blueprint regeneration took 263 ms (1 blueprints)
+[2019.01.14-19.30.21:344][791]PIE: New page: PIE session: MainMenu (15 янв. 2019 г., 1:30:21)
+[2019.01.14-19.30.21:344][791]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2019.01.14-19.30.21:346][791]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002209s)
+[2019.01.14-19.30.21:347][791]LogAIModule: Creating AISystem for world MainMenu
+[2019.01.14-19.30.21:347][791]LogPlayLevel: PIE: World Init took: (0.000701s)
+[2019.01.14-19.30.21:347][791]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.003020s)
+[2019.01.14-19.30.21:463][791]LogInit: XAudio2 using 'Наушники (Устройство с поддержкой High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.14-19.30.21:478][791]LogInit: FAudioDevice initialized.
+[2019.01.14-19.30.21:522][791]LogLoad: Game class is 'MainGameMode_C'
+[2019.01.14-19.30.21:524][791]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2019.01.14-22.30.21
+[2019.01.14-19.30.21:524][791]LogWorld: Bringing up level for play took: 0.000826
+[2019.01.14-19.30.21:539][791]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.14-19.30.21:539][791]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMenu 0,82
+[2019.01.14-19.30.21:539][791]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.01.14-19.30.23:525][927]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-19.30.25:192][ 50]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.01.14-19.30.25:192][ 50]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.14-19.30.25:232][ 50]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.14-19.30.25:232][ 50]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.01.14-19.30.25:316][ 50]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.14-19.30.25:342][ 51]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2019.01.14-19.30.26:574][148]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.14-19.30.26:593][148]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.01.14-19.30.26:593][148]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.14-19.30.26:593][148]PIE: New page: PIE session: MainMenu (15 янв. 2019 г., 1:30:26)
+[2019.01.14-19.30.26:593][148]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2019.01.14-19.30.26:596][148]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002310s)
+[2019.01.14-19.30.26:596][148]LogAIModule: Creating AISystem for world MainMenu
+[2019.01.14-19.30.26:596][148]LogPlayLevel: PIE: World Init took: (0.000634s)
+[2019.01.14-19.30.26:596][148]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.003050s)
+[2019.01.14-19.30.26:707][148]LogInit: XAudio2 using 'Наушники (Устройство с поддержкой High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.14-19.30.26:718][148]LogInit: FAudioDevice initialized.
+[2019.01.14-19.30.26:755][148]LogLoad: Game class is 'MainGameMode_C'
+[2019.01.14-19.30.26:757][148]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2019.01.14-22.30.26
+[2019.01.14-19.30.26:757][148]LogWorld: Bringing up level for play took: 0.000712
+[2019.01.14-19.30.26:771][148]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.14-19.30.26:771][148]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMenu 0,052
+[2019.01.14-19.30.26:771][148]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.01.14-19.30.29:045][284]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-19.30.29:153][292]LogNet: Browse: /Game/Maps/MainWorld
+[2019.01.14-19.30.29:153][292]LogLoad: LoadMap: /Game/Maps/MainWorld
+[2019.01.14-19.30.29:262][292]LogAIModule: Creating AISystem for world MainWorld
+[2019.01.14-19.30.29:263][292]LogLoad: Game class is 'MainGameMode_C'
+[2019.01.14-19.30.29:264][292]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainWorld.MainWorld up for play (max tick rate 0) at 2019.01.14-22.30.29
+[2019.01.14-19.30.29:264][292]LogWorld: Bringing up level for play took: 0.000768
+[2019.01.14-19.30.29:266][292]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.14-19.30.29:266][292]LogLoad: Took 0.113004 seconds to LoadMap(/Game/Maps/MainWorld)
+[2019.01.14-19.30.30:416][380]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-19.31.01:370][828]Cmd: TRANSACTION UNDO
+[2019.01.14-19.31.01:370][828]LogEditorTransaction: Undo Create Reroute Node
+[2019.01.14-19.31.09:814][527]Cmd: TRANSACTION UNDO
+[2019.01.14-19.31.09:814][527]LogEditorTransaction: Undo Create Reroute Node
+[2019.01.14-19.31.15:612][932]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.01.14-19.31.15:612][932]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.14-19.31.15:649][932]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.14-19.31.15:649][932]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.01.14-19.31.15:740][932]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.14-19.31.15:768][933]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2019.01.14-19.33.16:057][796]BlueprintLog: New page: Compile GameplayMenu
+[2019.01.14-19.33.29:852][928]BlueprintLog: New page: Compile GameplayMenu
+[2019.01.14-19.34.06:299][718]BlueprintLog: New page: Compile GameplayMenu
+[2019.01.14-19.35.02:674][408]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.14-19.35.02:693][408]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.01.14-19.35.02:693][408]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.14-19.35.02:693][408]PIE: New page: PIE session: MainMenu (15 янв. 2019 г., 1:35:02)
+[2019.01.14-19.35.02:694][408]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2019.01.14-19.35.02:696][408]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002345s)
+[2019.01.14-19.35.02:697][408]LogAIModule: Creating AISystem for world MainMenu
+[2019.01.14-19.35.02:697][408]LogPlayLevel: PIE: World Init took: (0.000702s)
+[2019.01.14-19.35.02:697][408]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.003165s)
+[2019.01.14-19.35.02:806][408]LogInit: XAudio2 using 'Наушники (Устройство с поддержкой High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.14-19.35.02:820][408]LogInit: FAudioDevice initialized.
+[2019.01.14-19.35.02:853][408]LogLoad: Game class is 'MainGameMode_C'
+[2019.01.14-19.35.02:854][408]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2019.01.14-22.35.02
+[2019.01.14-19.35.02:854][408]LogWorld: Bringing up level for play took: 0.000623
+[2019.01.14-19.35.02:868][408]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.14-19.35.02:868][408]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMenu 0,15
+[2019.01.14-19.35.02:869][408]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.01.14-19.35.03:687][499]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-19.35.03:798][510]LogNet: Browse: /Game/Maps/MainWorld
+[2019.01.14-19.35.03:798][510]LogLoad: LoadMap: /Game/Maps/MainWorld
+[2019.01.14-19.35.03:914][510]LogAIModule: Creating AISystem for world MainWorld
+[2019.01.14-19.35.03:914][510]LogLoad: Game class is 'MainGameMode_C'
+[2019.01.14-19.35.03:915][510]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainWorld.MainWorld up for play (max tick rate 0) at 2019.01.14-22.35.03
+[2019.01.14-19.35.03:916][510]LogWorld: Bringing up level for play took: 0.000668
+[2019.01.14-19.35.03:918][510]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.14-19.35.03:918][510]LogLoad: Took 0.119326 seconds to LoadMap(/Game/Maps/MainWorld)
+[2019.01.14-19.35.04:641][595]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-19.35.06:393][802]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.01.14-19.35.06:393][802]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.14-19.35.06:428][802]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.14-19.35.06:429][802]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.01.14-19.35.06:523][802]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.14-19.35.06:540][803]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2019.01.14-19.35.29:584][560]BlueprintLog: New page: Compile GameplayMenu
+[2019.01.14-19.35.31:681][729]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.14-19.35.31:700][729]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.01.14-19.35.31:700][729]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.14-19.35.31:700][729]PIE: New page: PIE session: MainMenu (15 янв. 2019 г., 1:35:31)
+[2019.01.14-19.35.31:700][729]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2019.01.14-19.35.31:703][729]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002405s)
+[2019.01.14-19.35.31:703][729]LogAIModule: Creating AISystem for world MainMenu
+[2019.01.14-19.35.31:704][729]LogPlayLevel: PIE: World Init took: (0.000644s)
+[2019.01.14-19.35.31:704][729]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.003171s)
+[2019.01.14-19.35.31:812][729]LogInit: XAudio2 using 'Наушники (Устройство с поддержкой High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.14-19.35.31:825][729]LogInit: FAudioDevice initialized.
+[2019.01.14-19.35.31:857][729]LogLoad: Game class is 'MainGameMode_C'
+[2019.01.14-19.35.31:859][729]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2019.01.14-22.35.31
+[2019.01.14-19.35.31:859][729]LogWorld: Bringing up level for play took: 0.000612
+[2019.01.14-19.35.31:873][729]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.14-19.35.31:873][729]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMenu 1,154
+[2019.01.14-19.35.31:873][729]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.01.14-19.35.32:993][858]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-19.35.33:113][872]LogNet: Browse: /Game/Maps/MainWorld
+[2019.01.14-19.35.33:113][872]LogLoad: LoadMap: /Game/Maps/MainWorld
+[2019.01.14-19.35.33:233][872]LogAIModule: Creating AISystem for world MainWorld
+[2019.01.14-19.35.33:233][872]LogLoad: Game class is 'MainGameMode_C'
+[2019.01.14-19.35.33:234][872]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainWorld.MainWorld up for play (max tick rate 0) at 2019.01.14-22.35.33
+[2019.01.14-19.35.33:234][872]LogWorld: Bringing up level for play took: 0.000976
+[2019.01.14-19.35.33:236][872]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.14-19.35.33:236][872]LogLoad: Took 0.122751 seconds to LoadMap(/Game/Maps/MainWorld)
+[2019.01.14-19.35.33:745][931]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-19.35.42:561][979]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.01.14-19.35.42:562][979]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.14-19.35.42:597][979]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.14-19.35.42:598][979]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.01.14-19.35.42:677][979]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.14-19.35.42:697][980]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2019.01.14-19.36.20:003][957]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MainMenu' took 0.080
+[2019.01.14-19.36.20:004][957]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Interface/GamePlayMenu] ([1] browsable assets)...
+[2019.01.14-19.36.20:004][957]OBJ SavePackage: Finished generating thumbnails for package [/Game/Interface/GamePlayMenu]
+[2019.01.14-19.36.20:040][957]LogSavePackage: Moving 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/GamePlayMenu_Auto569A268E54C03BABD3E41B98496D63A7A.tmp' to 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/Autosaves/Game/Interface/GamePlayMenu_Auto5.uasset'
+[2019.01.14-19.36.20:051][957]LogFileHelpers: Auto-saving content packages took 0.047
+[2019.01.14-19.36.45:046][896]BlueprintLog: New page: Compile GameplayMenu
+[2019.01.14-19.41.05:296][ 63]LogEditorTransaction: Undo Move Node
+[2019.01.14-19.41.05:710][ 87]LogEditorTransaction: Undo Move Node
+[2019.01.14-19.41.06:119][117]LogEditorTransaction: Undo Move Node
+[2019.01.14-19.41.06:507][147]LogEditorTransaction: Undo Move Node
+[2019.01.14-19.41.06:934][180]LogEditorTransaction: Undo Move Node
+[2019.01.14-19.41.07:337][211]LogEditorTransaction: Undo Move Node
+[2019.01.14-19.41.07:691][238]LogEditorTransaction: Undo Move Node
+[2019.01.14-19.41.08:137][273]LogEditorTransaction: Undo Create Pin Link
+[2019.01.14-19.41.08:593][307]LogEditorTransaction: Undo Delete current selection
+[2019.01.14-19.41.09:031][339]LogEditorTransaction: Undo Change Parameter Type
+[2019.01.14-19.44.18:061][705]BlueprintLog: New page: Compile GameplayMenu
+[2019.01.14-19.45.04:268][406]BlueprintLog: New page: Compile GameplayMenu
+[2019.01.14-19.45.13:856][166]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.14-19.45.13:875][166]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.01.14-19.45.13:876][166]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.14-19.45.13:876][166]PIE: New page: PIE session: MainMenu (15 янв. 2019 г., 1:45:13)
+[2019.01.14-19.45.13:876][166]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2019.01.14-19.45.13:878][166]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002354s)
+[2019.01.14-19.45.13:879][166]LogAIModule: Creating AISystem for world MainMenu
+[2019.01.14-19.45.13:879][166]LogPlayLevel: PIE: World Init took: (0.000788s)
+[2019.01.14-19.45.13:879][166]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.003258s)
+[2019.01.14-19.45.13:999][166]LogInit: XAudio2 using 'Наушники (Устройство с поддержкой High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.14-19.45.14:013][166]LogInit: FAudioDevice initialized.
+[2019.01.14-19.45.14:050][166]LogLoad: Game class is 'MainGameMode_C'
+[2019.01.14-19.45.14:051][166]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2019.01.14-22.45.14
+[2019.01.14-19.45.14:052][166]LogWorld: Bringing up level for play took: 0.000633
+[2019.01.14-19.45.14:066][166]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.14-19.45.14:066][166]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMenu -0,653
+[2019.01.14-19.45.14:066][166]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.01.14-19.45.15:072][280]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-19.45.15:190][294]LogNet: Browse: /Game/Maps/MainWorld
+[2019.01.14-19.45.15:191][294]LogLoad: LoadMap: /Game/Maps/MainWorld
+[2019.01.14-19.45.15:286][294]LogAIModule: Creating AISystem for world MainWorld
+[2019.01.14-19.45.15:286][294]LogLoad: Game class is 'MainGameMode_C'
+[2019.01.14-19.45.15:288][294]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainWorld.MainWorld up for play (max tick rate 0) at 2019.01.14-22.45.15
+[2019.01.14-19.45.15:288][294]LogWorld: Bringing up level for play took: 0.000734
+[2019.01.14-19.45.15:289][294]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.14-19.45.15:289][294]LogLoad: Took 0.098684 seconds to LoadMap(/Game/Maps/MainWorld)
+[2019.01.14-19.45.16:367][419]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-19.45.25:986][549]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.01.14-19.45.25:986][549]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.14-19.45.26:024][549]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.14-19.45.26:025][549]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.01.14-19.45.26:118][549]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.14-19.45.26:136][550]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2019.01.14-19.46.44:709][729]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MainMenu' took 0.085
+[2019.01.14-19.46.44:710][729]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Interface/GamePlayMenu] ([1] browsable assets)...
+[2019.01.14-19.46.44:710][729]OBJ SavePackage: Finished generating thumbnails for package [/Game/Interface/GamePlayMenu]
+[2019.01.14-19.46.44:747][729]LogSavePackage: Moving 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/GamePlayMenu_Auto6D1A9C68A4A61069866329A9DEDC188E2.tmp' to 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/Autosaves/Game/Interface/GamePlayMenu_Auto6.uasset'
+[2019.01.14-19.46.44:754][729]LogFileHelpers: Auto-saving content packages took 0.044
+[2019.01.14-19.59.19:784][858]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interface/GamePlayMenu" FILE="C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Interface/GamePlayMenu.uasset" SILENT=true
+[2019.01.14-19.59.19:824][858]LogSavePackage: Moving 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/GamePlayMenu1EC9AB60437B17B71EFC349F771988AB.tmp' to 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Interface/GamePlayMenu.uasset'
+[2019.01.14-20.03.01:401][ 74]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MainMenu' took 0.096
+[2019.01.14-20.03.01:402][ 74]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Interface/GamePlayMenu] ([1] browsable assets)...
+[2019.01.14-20.03.01:402][ 74]OBJ SavePackage: Finished generating thumbnails for package [/Game/Interface/GamePlayMenu]
+[2019.01.14-20.03.01:439][ 74]LogSavePackage: Moving 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/GamePlayMenu_Auto7FAED9A8146F81622BE5E0BB8D8F3D597.tmp' to 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/Autosaves/Game/Interface/GamePlayMenu_Auto7.uasset'
+[2019.01.14-20.03.01:445][ 74]LogFileHelpers: Auto-saving content packages took 0.043
+[2019.01.14-20.12.10:658][301]BlueprintLog: New page: Compile GameplayMenu
+[2019.01.14-20.12.12:215][403]LogSlate: Window 'MainMenu - Level Blueprint Editor' being destroyed
+[2019.01.14-20.12.12:220][403]LogSlate: Window 'MainMenu - Level Blueprint Editor' being destroyed
+[2019.01.14-20.12.16:226][728]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interface/GamePlayMenu" FILE="C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Interface/GamePlayMenu.uasset" SILENT=true
+[2019.01.14-20.12.16:259][728]LogSavePackage: Moving 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/GamePlayMenu977CDA5B42873C391045E58AF880754F.tmp' to 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Interface/GamePlayMenu.uasset'
