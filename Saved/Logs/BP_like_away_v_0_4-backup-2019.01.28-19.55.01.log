@@ -1,0 +1,1420 @@
+﻿Log file open, 01/28/19 13:32:03
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: BP_like_away_v_0_4
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 7.558516
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +3:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.138s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: AMD FX(tm)-9370 Eight-Core Processor           , GPU: NVIDIA GeForce GTX 970
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: D:/UE4/UE4 catalog/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.01.28-10.32.05:848][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.01.28-10.32.05:849][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.01.28-10.32.05:850][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/Config/Windows/Engine.ini]
+[2019.01.28-10.32.05:850][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.01.28-10.32.05:850][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/Config/Windows/Engine.ini]
+[2019.01.28-10.32.05:850][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/Config/Windows/Engine.ini]
+[2019.01.28-10.32.05:850][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.01.28-10.32.05:850][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.01.28-10.32.05:850][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.01.28-10.32.05:850][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.01.28-10.32.05:850][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.01.28-10.32.05:850][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.01.28-10.32.05:850][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.01.28-10.32.05:850][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.01.28-10.32.05:850][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.01.28-10.32.05:850][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.01.28-10.32.05:850][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.01.28-10.32.05:850][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.01.28-10.32.05:850][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.01.28-10.32.05:850][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/Config/Windows/Engine.ini]
+[2019.01.28-10.32.05:850][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.01.28-10.32.05:850][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.01.28-10.32.05:850][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.01.28-10.32.05:850][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.01.28-10.32.05:850][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.01.28-10.32.05:850][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.01.28-10.32.05:850][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.01.28-10.32.05:850][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.01.28-10.32.05:850][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.01.28-10.32.05:850][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.01.28-10.32.05:850][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.01.28-10.32.05:850][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.01.28-10.32.05:850][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.01.28-10.32.05:850][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.01.28-10.32.05:850][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/Config/Windows/Engine.ini]
+[2019.01.28-10.32.05:850][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/Config/Windows/Engine.ini]
+[2019.01.28-10.32.05:976][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/Config/Windows/Scalability.ini]
+[2019.01.28-10.32.05:977][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.01.28-10.32.05:977][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.01.28-10.32.05:977][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/Config/Windows/Scalability.ini]
+[2019.01.28-10.32.05:977][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.01.28-10.32.05:977][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/Config/Windows/Scalability.ini]
+[2019.01.28-10.32.05:977][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.01.28-10.32.05:977][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.01.28-10.32.05:977][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.01.28-10.32.05:977][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.01.28-10.32.05:977][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.01.28-10.32.05:977][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.01.28-10.32.05:977][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.01.28-10.32.05:977][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.01.28-10.32.05:977][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.01.28-10.32.05:977][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.01.28-10.32.05:977][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.01.28-10.32.05:977][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.01.28-10.32.05:977][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.01.28-10.32.05:977][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.01.28-10.32.05:977][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.01.28-10.32.05:977][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.01.28-10.32.05:977][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.01.28-10.32.05:977][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.01.28-10.32.05:977][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/Config/Windows/Scalability.ini]
+[2019.01.28-10.32.05:977][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.01.28-10.32.05:977][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.01.28-10.32.05:977][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.01.28-10.32.05:977][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.01.28-10.32.05:977][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.01.28-10.32.05:977][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.01.28-10.32.05:977][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.01.28-10.32.05:977][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.01.28-10.32.05:977][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.01.28-10.32.05:977][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.01.28-10.32.05:977][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.01.28-10.32.05:977][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.01.28-10.32.05:977][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.01.28-10.32.05:977][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.01.28-10.32.05:977][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.01.28-10.32.05:977][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.01.28-10.32.05:977][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.01.28-10.32.05:977][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.01.28-10.32.05:978][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.01.28-10.32.05:978][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.01.28-10.32.05:978][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.01.28-10.32.05:978][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.01.28-10.32.05:978][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.01.28-10.32.05:978][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.01.28-10.32.05:978][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.01.28-10.32.05:978][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.01.28-10.32.05:978][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.01.28-10.32.05:978][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.01.28-10.32.05:978][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.01.28-10.32.05:978][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.01.28-10.32.05:978][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/Config/Windows/Scalability.ini]
+[2019.01.28-10.32.05:978][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.01.28-10.32.05:978][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.01.28-10.32.05:978][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.01.28-10.32.05:978][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.01.28-10.32.05:978][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.01.28-10.32.05:978][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.01.28-10.32.05:978][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.01.28-10.32.05:978][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.01.28-10.32.05:978][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/Config/Windows/Scalability.ini]
+[2019.01.28-10.32.05:978][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.01.28-10.32.05:978][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.01.28-10.32.05:978][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.01.28-10.32.05:978][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.01.28-10.32.05:978][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.01.28-10.32.05:978][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.01.28-10.32.05:978][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.01.28-10.32.05:978][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.01.28-10.32.05:978][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.01.28-10.32.05:978][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.01.28-10.32.05:978][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.01.28-10.32.05:978][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.01.28-10.32.05:978][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.01.28-10.32.05:978][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/Config/Windows/Scalability.ini]
+[2019.01.28-10.32.05:978][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.01.28-10.32.05:978][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.01.28-10.32.06:029][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.28-10.32.06:029][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.01.28-10.32.06:069][  0]LogHAL: Display: Platform has ~ 16 GB [17074769920 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.01.28-10.32.06:075][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.01.28-10.32.06:075][  0]LogInit: Going up to parent DeviceProfile []
+[2019.01.28-10.32.06:075][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/Config/Windows/Scalability.ini]
+[2019.01.28-10.32.06:075][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.01.28-10.32.06:075][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.01.28-10.32.06:075][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/Config/Windows/Scalability.ini]
+[2019.01.28-10.32.06:075][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.01.28-10.32.06:075][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/Config/Windows/Scalability.ini]
+[2019.01.28-10.32.06:075][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.01.28-10.32.06:075][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.01.28-10.32.06:075][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.01.28-10.32.06:075][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.01.28-10.32.06:075][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.01.28-10.32.06:075][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.01.28-10.32.06:075][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.01.28-10.32.06:075][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.01.28-10.32.06:076][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.01.28-10.32.06:076][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.01.28-10.32.06:076][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.01.28-10.32.06:076][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.01.28-10.32.06:076][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.01.28-10.32.06:076][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.01.28-10.32.06:076][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.01.28-10.32.06:076][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.01.28-10.32.06:076][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.01.28-10.32.06:076][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.01.28-10.32.06:076][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/Config/Windows/Scalability.ini]
+[2019.01.28-10.32.06:076][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.01.28-10.32.06:076][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.01.28-10.32.06:076][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.01.28-10.32.06:076][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.01.28-10.32.06:076][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.01.28-10.32.06:076][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.01.28-10.32.06:076][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.01.28-10.32.06:076][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.01.28-10.32.06:076][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.01.28-10.32.06:076][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.01.28-10.32.06:076][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.01.28-10.32.06:076][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.01.28-10.32.06:076][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.01.28-10.32.06:076][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.01.28-10.32.06:076][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.01.28-10.32.06:076][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.01.28-10.32.06:076][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.01.28-10.32.06:076][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.01.28-10.32.06:076][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.01.28-10.32.06:076][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.01.28-10.32.06:076][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.01.28-10.32.06:076][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.01.28-10.32.06:076][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.01.28-10.32.06:076][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.01.28-10.32.06:076][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.01.28-10.32.06:076][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.01.28-10.32.06:076][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.01.28-10.32.06:076][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.01.28-10.32.06:076][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.01.28-10.32.06:076][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.01.28-10.32.06:076][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/Config/Windows/Scalability.ini]
+[2019.01.28-10.32.06:076][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.01.28-10.32.06:076][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.01.28-10.32.06:076][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.01.28-10.32.06:076][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.01.28-10.32.06:076][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.01.28-10.32.06:076][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.01.28-10.32.06:076][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.01.28-10.32.06:076][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.01.28-10.32.06:076][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/Config/Windows/Scalability.ini]
+[2019.01.28-10.32.06:076][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.01.28-10.32.06:076][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.01.28-10.32.06:076][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.01.28-10.32.06:076][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.01.28-10.32.06:076][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.01.28-10.32.06:076][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.01.28-10.32.06:077][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.01.28-10.32.06:077][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.01.28-10.32.06:077][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.01.28-10.32.06:077][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.01.28-10.32.06:077][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.01.28-10.32.06:077][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.01.28-10.32.06:077][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.01.28-10.32.06:077][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/Config/Windows/Scalability.ini]
+[2019.01.28-10.32.06:077][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.01.28-10.32.06:077][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.01.28-10.32.06:077][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.01.28-10.32.06:093][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.01.28-10.32.06:093][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/Config/Windows/Engine.ini]
+[2019.01.28-10.32.06:150][  0]LogInit: Computer: DESKTOP-4EG7N1S
+[2019.01.28-10.32.06:150][  0]LogInit: User: happy
+[2019.01.28-10.32.06:150][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.01.28-10.32.06:150][  0]LogInit: High frequency timer resolution =4.311318 MHz
+[2019.01.28-10.32.06:151][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.01.28-10.32.06:151][  0]LogMemory: Platform Memory Stats for Windows
+[2019.01.28-10.32.06:151][  0]LogMemory: Process Physical Memory: 103.21 MB used, 103.21 MB peak
+[2019.01.28-10.32.06:151][  0]LogMemory: Process Virtual Memory: 89.94 MB used, 89.94 MB peak
+[2019.01.28-10.32.06:151][  0]LogMemory: Physical Memory: 5954.26 MB used,  10329.51 MB free, 16283.77 MB total
+[2019.01.28-10.32.06:151][  0]LogMemory: Virtual Memory: 4637.07 MB used,  134213088.00 MB free, 134217728.00 MB total
+[2019.01.28-10.32.06:813][  0]LogInit: Using OS detected language (ru-RU).
+[2019.01.28-10.32.06:813][  0]LogInit: Using OS detected locale (ru-RU).
+[2019.01.28-10.32.06:856][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so the 'ru' localization will be used.
+[2019.01.28-10.32.06:924][  0]LogStreaming: Display: Took  0.089s to InitEngineTextLocalization.
+[2019.01.28-10.32.06:949][  0]LogInit: Setting process to per monitor DPI aware
+[2019.01.28-10.32.07:544][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.01.28-10.32.07:544][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.01.28-10.32.08:506][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.01.28-10.32.08:506][  0]LogD3D11RHI: D3D11 adapters:
+[2019.01.28-10.32.08:575][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970' (Feature Level 11_0)
+[2019.01.28-10.32.08:575][  0]LogD3D11RHI:       4043/0/8141 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.01.28-10.32.08:577][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.01.28-10.32.08:577][  0]LogD3D11RHI:       0/0/8141 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.01.28-10.32.08:578][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.01.28-10.32.08:588][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.01.28-10.32.08:588][  0]LogD3D11RHI:     GPU DeviceId: 0x13c2 (for the marketing name, search the web for "GPU Device Id")
+[2019.01.28-10.32.08:588][  0]LogWindows: EnumDisplayDevices:
+[2019.01.28-10.32.08:589][  0]LogWindows:    0. 'NVIDIA GeForce GTX 970' (P:1 D:1)
+[2019.01.28-10.32.08:589][  0]LogWindows:    1. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2019.01.28-10.32.08:589][  0]LogWindows:    2. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2019.01.28-10.32.08:590][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2019.01.28-10.32.08:590][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.01.28-10.32.08:590][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970
+[2019.01.28-10.32.08:590][  0]LogD3D11RHI:   Driver Version: 391.01 (internal:23.21.13.9101, unified:391.01)
+[2019.01.28-10.32.08:590][  0]LogD3D11RHI:      Driver Date: 2-23-2018
+[2019.01.28-10.32.08:591][  0]LogRHI: Texture pool is 2830 MB (70% of 4043 MB)
+[2019.01.28-10.32.08:663][  0]LogD3D11RHI: Async texture creation enabled
+[2019.01.28-10.32.08:982][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.01.28-10.32.09:795][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.01.28-10.32.09:822][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.01.28-10.32.09:859][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.01.28-10.32.09:883][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.01.28-10.32.09:914][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.01.28-10.32.09:961][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.01.28-10.32.09:992][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.01.28-10.32.10:015][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.01.28-10.32.10:025][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.01.28-10.32.10:157][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.28-10.32.10:157][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.28-10.32.10:157][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.28-10.32.10:157][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.28-10.32.10:157][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.28-10.32.10:157][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.28-10.32.10:157][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.28-10.32.10:157][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.28-10.32.10:157][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.28-10.32.10:157][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.28-10.32.10:157][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.28-10.32.10:157][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.28-10.32.10:157][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.28-10.32.10:157][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.28-10.32.10:157][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.28-10.32.10:157][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.28-10.32.10:157][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.28-10.32.10:157][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.28-10.32.10:184][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.01.28-10.32.10:279][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.01.28-10.32.10:279][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.01.28-10.32.10:341][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.01.28-10.32.10:341][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.01.28-10.32.10:372][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.01.28-10.32.10:389][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.01.28-10.32.10:407][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.01.28-10.32.10:425][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.01.28-10.32.10:525][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.01.28-10.32.10:526][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.01.28-10.32.10:526][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.01.28-10.32.11:129][  0]LogShaderCompilers: Guid format shader working directory is -7 characters bigger than the processId version (C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Intermediate/Shaders/WorkingDirectory/7064/).
+[2019.01.28-10.32.11:129][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/happy/AppData/Local/Temp/UnrealShaderWorkingDir/A672244746DAC14DBC5973AC011EEF58/'.
+[2019.01.28-10.32.11:185][  0]LogXGEController: Cleaning working directory: C:/Users/happy/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.01.28-10.32.11:185][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.01.28-10.32.11:185][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.01.28-10.32.11:185][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.01.28-10.32.13:644][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.01.28-10.32.13:855][  0]LogDerivedDataCache: Loaded boot cache 0.21s 72MB C:/Users/happy/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.01.28-10.32.13:855][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/happy/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.01.28-10.32.13:855][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.01.28-10.32.13:855][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.01.28-10.32.13:855][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.01.28-10.32.13:855][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.01.28-10.32.13:896][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.01.28-10.32.13:896][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.01.28-10.32.13:896][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.01.28-10.32.13:917][  0]LogDerivedDataCache: Using Local data cache path C:/Users/happy/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.01.28-10.32.13:917][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.01.28-10.32.13:917][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.01.28-10.32.13:976][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.01.28-10.32.14:076][  0]LogSlate: Using FreeType 2.6.0
+[2019.01.28-10.32.14:200][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.01.28-10.32.14:817][  0]LogAssetRegistry: FAssetRegistry took 0.0386 seconds to start up
+[2019.01.28-10.32.20:262][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.28-10.32.21:477][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.01.28-10.32.21:649][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.01.28-10.32.21:650][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.01.28-10.32.21:650][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.01.28-10.32.21:650][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.01.28-10.32.22:418][  0]LogNetVersion: BP_like_away_v_0_4 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 612912654)
+[2019.01.28-10.32.27:372][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.107712 seconds
+[2019.01.28-10.32.27:431][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.01.28-10.32.27:431][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2019.01.28-10.32.27:431][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.01.28-10.32.34:977][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.01.28-10.32.35:015][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.01.28-10.32.37:091][  0]SourceControl: Source control is disabled
+[2019.01.28-10.32.37:092][  0]SourceControl: Source control is disabled
+[2019.01.28-10.32.37:254][  0]SourceControl: Source control is disabled
+[2019.01.28-10.32.37:272][  0]SourceControl: Source control is disabled
+[2019.01.28-10.32.38:935][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.01.28-10.32.39:110][  0]LogOcInput: OculusInput pre-init called
+[2019.01.28-10.32.40:294][  0]LogEngine: Initializing Engine...
+[2019.01.28-10.32.40:352][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.01.28-10.32.40:368][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.012 s
+[2019.01.28-10.32.40:368][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.28-10.32.40:368][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.01.28-10.32.40:368][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.28-10.32.41:133][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.01.28-10.32.41:748][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.01.28-10.32.41:904][  0]LogInit: XAudio2 using 'Наушники (Устройство с поддержкой High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.28-10.32.41:969][  0]LogInit: FAudioDevice initialized.
+[2019.01.28-10.32.41:970][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.01.28-10.32.42:081][  0]LogDerivedDataCache: Saved boot cache 0.11s 71MB C:/Users/happy/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.01.28-10.32.42:089][  0]LogInit: Texture streaming: Enabled
+[2019.01.28-10.32.42:191][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.01.28-10.32.42:191][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=AbnormalShutdown, SessionId={C08D7EBB-452C-AC9A-3E52-D4B92EAEB51F}
+[2019.01.28-10.32.42:337][  0]LogInit: Transaction tracking system initialized
+[2019.01.28-10.32.42:774][  0]BlueprintLog: New page: Editor Load
+[2019.01.28-10.32.44:125][  0]LocalizationService: Localization service is disabled
+[2019.01.28-10.32.48:013][  0]LogFileCache: Scanning file cache for directory 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/' took 0.01s
+[2019.01.28-10.32.48:013][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.01.28-10.32.48:013][  0]LogCook: Display: Mobile HDR setting 1
+[2019.01.28-10.32.48:013][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.01.28-10.32.48:013][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.01.28-10.32.48:013][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.28-10.32.48:013][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.01.28-10.32.48:013][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.28-10.32.49:800][  0]SourceControl: Source control is disabled
+[2019.01.28-10.32.50:088][  0]LogSlate: Took 0.012645 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.01.28-12.33.59:289][  0]LogSlate: Window 'Restore Packages' being destroyed
+[2019.01.28-12.34.00:561][  0]LogSlate: Window 'Unable to Check Out From Source Control!' being destroyed
+[2019.01.28-12.34.00:562][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.28-12.34.00:592][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.28-12.34.00:642][  0]Cmd: MAP LOAD FILE="C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.28-12.34.00:645][  0]LightingResults: New page: Lighting Build
+[2019.01.28-12.34.00:833][  0]MapCheck: New page: Map Check
+[2019.01.28-12.34.00:833][  0]LightingResults: New page: Lighting Build
+[2019.01.28-12.34.01:819][  0]LogAIModule: Creating AISystem for world MainMenu
+[2019.01.28-12.34.02:171][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.28-12.34.02:360][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.28-12.34.02:360][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,155ms to complete.
+[2019.01.28-12.34.02:360][  0]LogFileHelpers: Loading map 'MainMenu' took 1.753
+[2019.01.28-12.34.03:479][  0]LogCollectionManager: Loaded 0 collections in 0.001876 seconds
+[2019.01.28-12.34.03:610][  0]LogFileCache: Scanning file cache for directory 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/Collections/' took 0.01s
+[2019.01.28-12.34.03:610][  0]LogFileCache: Scanning file cache for directory 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Developers/happy/Collections/' took 0.01s
+[2019.01.28-12.34.03:610][  0]LogFileCache: Scanning file cache for directory 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Collections/' took 0.01s
+[2019.01.28-12.34.03:610][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.01.28-12.34.03:626][  0]LogContentBrowser: Native class hierarchy populated in 0.0139 seconds. Added 2651 classes and 620 folders.
+[2019.01.28-12.34.03:702][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.01.28-12.34.03:754][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.28-12.34.03:775][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.28-12.34.03:787][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.28-12.34.03:814][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.28-12.34.03:828][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.28-12.34.03:833][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.28-12.34.03:839][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.28-12.34.03:864][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.28-12.34.03:885][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.28-12.34.03:912][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.28-12.34.03:924][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.28-12.34.03:937][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.28-12.34.03:964][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.28-12.34.03:983][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.28-12.34.04:007][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.28-12.34.04:028][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.28-12.34.04:043][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.28-12.34.04:062][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.28-12.34.04:078][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.28-12.34.04:093][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.28-12.34.04:113][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.28-12.34.04:132][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.28-12.34.04:159][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.28-12.34.04:185][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.28-12.34.04:200][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.28-12.34.04:224][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.28-12.34.05:018][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.01.28-12.34.05:327][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.28-12.34.05:341][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.28-12.34.05:349][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.28-12.34.05:358][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.28-12.34.05:425][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.01.28-12.34.06:815][  0]LogSlate: Took 0.013770 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.01.28-12.34.06:832][  0]LogSlate: Took 0.015416 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.01.28-12.34.06:930][  0]LogSlate: Took 0.014202 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2019.01.28-12.34.07:063][  0]LogSlate: Took 0.016799 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.01.28-12.34.07:378][  0]LogRenderer: Reallocating scene render targets to support 1060x568 Format 10 NumSamples 1 (Frame:1).
+[2019.01.28-12.34.07:980][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.01.28-12.34.07:980][  0]LogLoad: (Engine Initialization) Total time: 7338.88 seconds
+[2019.01.28-12.34.07:980][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.01.28-12.34.08:159][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.01.28-12.34.08:352][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/' took 0.29s
+[2019.01.28-12.34.08:370][  1]LogAssetRegistry: Asset discovery search completed in 7313.5745 seconds
+[2019.01.28-12.34.08:373][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.01.28-12.34.08:373][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000232 seconds (updated 0 objects)
+[2019.01.28-12.34.09:015][ 62]LogSlate: Took 0.000314 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.01.28-12.34.10:529][238]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.28-12.34.10:697][250]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MainCharacter.MainCharacter
+[2019.01.28-12.34.12:114][250]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 117 classes and 0 folders.
+[2019.01.28-12.34.13:787][250]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Interface/GamePlayMenu.GameplayMenu
+[2019.01.28-12.34.14:705][250]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Interface/MainMenu.MainMenu
+[2019.01.28-12.34.15:096][250]LogLinker: Warning: Can't resolve asset name
+[2019.01.28-12.34.15:318][250]LogSlate: Took 0.013506 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.01.28-13.29.30:416][381]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.28-13.29.30:418][381]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.28-13.29.31:388][473]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.28-13.29.36:192][910]LogAssetEditorManager: Opening Asset editor for SoundWave /Game/Sounds/Voice/GameplayWave1.GameplayWave1
+[2019.01.28-13.29.40:730][350]LogSlate: Window 'GameplayWave1 - Generic Asset Editor' being destroyed
+[2019.01.28-13.29.40:736][350]LogSlate: Window 'GameplayWave1 - Generic Asset Editor' being destroyed
+[2019.01.28-13.30.23:965][603]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\happy\OneDrive\Рабочий стол\untitled.wav)
+[2019.01.28-13.30.25:816][797]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave untitled...
+[2019.01.28-13.30.26:130][797]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 1428160 while cooking SoundWave /Game/Sounds/Voice/untitled.untitled.
+[2019.01.28-13.31.09:397][ 51]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MainMenu' took 0.711
+[2019.01.28-13.31.09:454][ 51]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sounds/Voice/untitled] ([1] browsable assets)...
+[2019.01.28-13.31.09:507][ 51]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Sounds/Voice/untitled.untitled]
+[2019.01.28-13.31.09:508][ 51]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sounds/Voice/untitled]
+[2019.01.28-13.31.09:508][ 51]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Voice/untitled" FILE="C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/Autosaves/Game/Sounds/Voice/untitled_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.01.28-13.31.09:626][ 51]LogSavePackage: Moving 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/untitled_Auto141CE3326481C288278738BB59DADFBD8.tmp' to 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/Autosaves/Game/Sounds/Voice/untitled_Auto1.uasset'
+[2019.01.28-13.31.09:635][ 51]LogFileHelpers: Auto-saving content packages took 0.236
+[2019.01.28-13.32.36:426][429]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\happy\OneDrive\Рабочий стол\2.wav)
+[2019.01.28-13.32.51:868][156]LogSlate: Window 'Replace References?' being destroyed
+[2019.01.28-13.32.51:872][156]LogSlate: Window 'Delete Assets' being destroyed
+[2019.01.28-13.32.59:134][156]LogSlate: Window 'Save Content' being destroyed
+[2019.01.28-13.32.59:211][156]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Media/GameplayVoice1" FILE="C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Sounds/Media/GameplayVoice1.uasset" SILENT=true
+[2019.01.28-13.32.59:294][156]LogSavePackage: Moving 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/GameplayVoice1EA4657EE45BFEBD5549F52B342D5F8FD.tmp' to 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Sounds/Media/GameplayVoice1.uasset'
+[2019.01.28-13.32.59:301][156]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Voice/GameplayWave1" FILE="C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Sounds/Voice/GameplayWave1.uasset" SILENT=true
+[2019.01.28-13.32.59:316][156]LogSavePackage: Moving 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/GameplayWave1DDDBDB88497F0720295B7B9CC72B4AE9.tmp' to 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Sounds/Voice/GameplayWave1.uasset'
+[2019.01.28-13.33.17:763][322]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Voice/untitled" FILE="C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Sounds/Voice/untitled.uasset" SILENT=true
+[2019.01.28-13.33.17:767][322]LogSavePackage: Moving 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/untitledCDCC656449202D851BE482BEAA7578CA.tmp' to 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Sounds/Voice/untitled.uasset'
+[2019.01.28-13.33.17:781][322]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Voice/2" FILE="C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Sounds/Voice/2.uasset" SILENT=true
+[2019.01.28-13.33.17:787][322]LogSavePackage: Moving 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/2FD7E6EC64B9ACE1E03A74B932A4629A0.tmp' to 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Sounds/Voice/2.uasset'
+[2019.01.28-13.33.32:799][109]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Interface/GamePlayMenu.GameplayMenu
+[2019.01.28-13.33.36:660][269]LogSlate: Took 0.018341 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.01.28-13.34.04:146][375]LogAssetEditorManager: Opening Asset editor for DialogueWave /Game/Sounds/Media/GameplayVoice1.GameplayVoice1
+[2019.01.28-13.34.52:765][194]LogAssetEditorManager: Opening Asset editor for DialogueVoice /Game/Sounds/Media/GameplayMain.GameplayMain
+[2019.01.28-13.35.05:689][682]LogAssetEditorManager: Opening Asset editor for DialogueWave /Game/Sounds/Media/GameplayVoice1.GameplayVoice1
+[2019.01.28-13.35.13:041][451]LogAssetEditorManager: Opening Asset editor for DialogueVoice /Game/Sounds/Media/GameplayMain.GameplayMain
+[2019.01.28-13.35.17:317][915]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.28-13.35.20:249][262]LogAssetEditorManager: Opening Asset editor for DialogueVoice /Game/Sounds/Speakers/Happyer.Happyer
+[2019.01.28-13.35.36:179][576]LogAssetEditorManager: Opening Asset editor for DialogueWave /Game/Sounds/Media/GameplayVoice1.GameplayVoice1
+[2019.01.28-13.36.25:306][262]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Voice/GPwave1" FILE="C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Sounds/Voice/GPwave1.uasset" SILENT=true
+[2019.01.28-13.36.25:313][262]LogSavePackage: Moving 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/GPwave1A0F200604FD101E916CB15A30BC1200A.tmp' to 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Sounds/Voice/GPwave1.uasset'
+[2019.01.28-13.36.25:715][262]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Media/GameplayVoice1" FILE="C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Sounds/Media/GameplayVoice1.uasset" SILENT=true
+[2019.01.28-13.36.25:729][262]LogSavePackage: Moving 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/GameplayVoice16ECDED6D422143FB18D497A161BA3B3A.tmp' to 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Sounds/Media/GameplayVoice1.uasset'
+[2019.01.28-13.36.25:735][262]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Voice/GameplayWave1" FILE="C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Sounds/Voice/GameplayWave1.uasset" SILENT=true
+[2019.01.28-13.36.25:748][262]LogSavePackage: Moving 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/GameplayWave1A03B92864B015939262F098350CAF176.tmp' to 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Sounds/Voice/GameplayWave1.uasset'
+[2019.01.28-13.36.35:824][402]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Voice/GPwave2" FILE="C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Sounds/Voice/GPwave2.uasset" SILENT=true
+[2019.01.28-13.36.35:830][402]LogSavePackage: Moving 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/GPwave2BC111B2B41A35F338EC6CBBFD82E7750.tmp' to 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Sounds/Voice/GPwave2.uasset'
+[2019.01.28-13.37.00:204][739]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Media/GameplayVoice2" FILE="C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Sounds/Media/GameplayVoice2.uasset" SILENT=true
+[2019.01.28-13.37.00:206][739]LogSavePackage: Moving 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/GameplayVoice2A8C4B70D4C7824ED378C7DB74B675000.tmp' to 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Sounds/Media/GameplayVoice2.uasset'
+[2019.01.28-13.37.01:456][828]LogAssetEditorManager: Opening Asset editor for DialogueWave /Game/Sounds/Media/GameplayVoice2.GameplayVoice2
+[2019.01.28-13.37.10:312][728]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Media/GameplayVoice2" FILE="C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Sounds/Media/GameplayVoice2.uasset" SILENT=true
+[2019.01.28-13.37.10:327][728]LogSavePackage: Moving 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/GameplayVoice24171C8A844E6AA822EA441A4C948AF95.tmp' to 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Sounds/Media/GameplayVoice2.uasset'
+[2019.01.28-13.37.11:733][874]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Media/GameplayVoice1" FILE="C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Sounds/Media/GameplayVoice1.uasset" SILENT=true
+[2019.01.28-13.37.11:747][874]LogSavePackage: Moving 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/GameplayVoice124C89AD9496A90896E2B9594AE87A2BC.tmp' to 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Sounds/Media/GameplayVoice1.uasset'
+[2019.01.28-13.37.14:773][212]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.28-13.37.14:826][212]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.01.28-13.37.14:842][212]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.01.28-13.37.14:855][212]LogPlayLevel: [PlayLevel] Compiling GameplayMenu before play...
+[2019.01.28-13.37.15:344][212]LogPlayLevel: PlayLevel: Blueprint regeneration took 502 ms (1 blueprints)
+[2019.01.28-13.37.15:423][212]PIE: New page: PIE session: MainMenu (28 янв. 2019 г., 19:37:15)
+[2019.01.28-13.37.15:637][212]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2019.01.28-13.37.15:685][212]LogPlayLevel: PIE: StaticDuplicateObject took: (0.048096s)
+[2019.01.28-13.37.15:686][212]LogAIModule: Creating AISystem for world MainMenu
+[2019.01.28-13.37.15:690][212]LogPlayLevel: PIE: World Init took: (0.004323s)
+[2019.01.28-13.37.15:690][212]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.053310s)
+[2019.01.28-13.37.15:828][212]LogInit: XAudio2 using 'Наушники (Устройство с поддержкой High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.28-13.37.15:842][212]LogInit: FAudioDevice initialized.
+[2019.01.28-13.37.15:898][212]LogLoad: Game class is 'MainGameMode_C'
+[2019.01.28-13.37.15:927][212]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2019.01.28-16.37.15
+[2019.01.28-13.37.15:976][212]LogWorld: Bringing up level for play took: 0.077095
+[2019.01.28-13.37.16:287][212]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0009 seconds. Added 20 classes and 0 folders.
+[2019.01.28-13.37.16:333][212]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.28-13.37.16:347][212]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMenu 2,473
+[2019.01.28-13.37.16:348][212]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.01.28-13.37.20:535][669]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.28-13.37.20:670][685]LogNet: Browse: /Game/Maps/MainWorld
+[2019.01.28-13.37.20:670][685]LogLoad: LoadMap: /Game/Maps/MainWorld
+[2019.01.28-13.37.20:954][685]LogAIModule: Creating AISystem for world MainWorld
+[2019.01.28-13.37.20:954][685]LogLoad: Game class is 'MainGameMode_C'
+[2019.01.28-13.37.21:007][685]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainWorld.MainWorld up for play (max tick rate 0) at 2019.01.28-16.37.21
+[2019.01.28-13.37.21:007][685]LogWorld: Bringing up level for play took: 0.052192
+[2019.01.28-13.37.21:008][685]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.01.28-13.37.21:020][685]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.01.28-13.37.21:022][685]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.28-13.37.21:023][685]LogLoad: Took 0.352599 seconds to LoadMap(/Game/Maps/MainWorld)
+[2019.01.28-13.37.23:380][942]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.28-13.37.25:340][141]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave GPwave1...
+[2019.01.28-13.37.25:456][141]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 926100 while cooking SoundWave /Game/Sounds/Voice/GPwave1.GPwave1.
+[2019.01.28-13.37.39:352][804]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.01.28-13.37.39:353][804]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.28-13.37.39:421][804]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.28-13.37.39:421][804]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.01.28-13.37.39:512][804]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.28-13.37.39:529][805]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.01.28-13.37.43:832][177]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Media/GameplayVoice1" FILE="C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Sounds/Media/GameplayVoice1.uasset" SILENT=true
+[2019.01.28-13.37.43:848][177]LogSavePackage: Moving 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/GameplayVoice13F72C2E747D74221F6F276A3F6219371.tmp' to 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Sounds/Media/GameplayVoice1.uasset'
+[2019.01.28-13.37.46:004][417]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Media/GameplayVoice2" FILE="C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Sounds/Media/GameplayVoice2.uasset" SILENT=true
+[2019.01.28-13.37.46:019][417]LogSavePackage: Moving 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/GameplayVoice2C98A6FFC400961F3A76CD0A808DB8DAF.tmp' to 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Sounds/Media/GameplayVoice2.uasset'
+[2019.01.28-13.37.53:396][973]BlueprintLog: New page: Compile GameplayMenu
+[2019.01.28-13.37.56:451][200]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.28-13.37.56:471][200]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.01.28-13.37.56:472][200]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.28-13.37.56:472][200]PIE: New page: PIE session: MainMenu (28 янв. 2019 г., 19:37:56)
+[2019.01.28-13.37.56:472][200]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2019.01.28-13.37.56:475][200]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002348s)
+[2019.01.28-13.37.56:475][200]LogAIModule: Creating AISystem for world MainMenu
+[2019.01.28-13.37.56:476][200]LogPlayLevel: PIE: World Init took: (0.000748s)
+[2019.01.28-13.37.56:476][200]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.003529s)
+[2019.01.28-13.37.56:571][200]LogInit: XAudio2 using 'Наушники (Устройство с поддержкой High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.28-13.37.56:583][200]LogInit: FAudioDevice initialized.
+[2019.01.28-13.37.56:616][200]LogLoad: Game class is 'MainGameMode_C'
+[2019.01.28-13.37.56:617][200]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2019.01.28-16.37.56
+[2019.01.28-13.37.56:618][200]LogWorld: Bringing up level for play took: 0.000817
+[2019.01.28-13.37.56:632][200]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.28-13.37.56:632][200]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMenu 0,758
+[2019.01.28-13.37.56:633][200]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.01.28-13.37.57:369][287]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.28-13.37.57:478][300]LogNet: Browse: /Game/Maps/MainWorld
+[2019.01.28-13.37.57:479][300]LogLoad: LoadMap: /Game/Maps/MainWorld
+[2019.01.28-13.37.57:577][300]LogAIModule: Creating AISystem for world MainWorld
+[2019.01.28-13.37.57:578][300]LogLoad: Game class is 'MainGameMode_C'
+[2019.01.28-13.37.57:579][300]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainWorld.MainWorld up for play (max tick rate 0) at 2019.01.28-16.37.57
+[2019.01.28-13.37.57:580][300]LogWorld: Bringing up level for play took: 0.001421
+[2019.01.28-13.37.57:580][300]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.01.28-13.37.57:580][300]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.01.28-13.37.57:582][300]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.28-13.37.57:582][300]LogLoad: Took 0.103476 seconds to LoadMap(/Game/Maps/MainWorld)
+[2019.01.28-13.37.59:188][492]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.28-13.38.12:973][146]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.01.28-13.38.12:974][146]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.28-13.38.13:010][146]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.28-13.38.13:010][146]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.01.28-13.38.13:100][146]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.28-13.38.13:116][147]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.01.28-13.38.28:246][666]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.28-13.38.28:266][666]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.01.28-13.38.28:267][666]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.28-13.38.28:267][666]PIE: New page: PIE session: MainMenu (28 янв. 2019 г., 19:38:28)
+[2019.01.28-13.38.28:267][666]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2019.01.28-13.38.28:270][666]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002407s)
+[2019.01.28-13.38.28:270][666]LogAIModule: Creating AISystem for world MainMenu
+[2019.01.28-13.38.28:270][666]LogPlayLevel: PIE: World Init took: (0.000736s)
+[2019.01.28-13.38.28:271][666]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.003601s)
+[2019.01.28-13.38.28:377][666]LogInit: XAudio2 using 'Наушники (Устройство с поддержкой High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.28-13.38.28:389][666]LogInit: FAudioDevice initialized.
+[2019.01.28-13.38.28:424][666]LogLoad: Game class is 'MainGameMode_C'
+[2019.01.28-13.38.28:426][666]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2019.01.28-16.38.28
+[2019.01.28-13.38.28:426][666]LogWorld: Bringing up level for play took: 0.000867
+[2019.01.28-13.38.28:440][666]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.28-13.38.28:440][666]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMenu 0,566
+[2019.01.28-13.38.28:441][666]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.01.28-13.38.28:974][729]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.28-13.38.29:100][744]LogNet: Browse: /Game/Maps/MainWorld
+[2019.01.28-13.38.29:101][744]LogLoad: LoadMap: /Game/Maps/MainWorld
+[2019.01.28-13.38.29:209][744]LogAIModule: Creating AISystem for world MainWorld
+[2019.01.28-13.38.29:209][744]LogLoad: Game class is 'MainGameMode_C'
+[2019.01.28-13.38.29:211][744]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainWorld.MainWorld up for play (max tick rate 0) at 2019.01.28-16.38.29
+[2019.01.28-13.38.29:211][744]LogWorld: Bringing up level for play took: 0.001299
+[2019.01.28-13.38.29:212][744]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.01.28-13.38.29:212][744]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.01.28-13.38.29:214][744]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.28-13.38.29:214][744]LogLoad: Took 0.113190 seconds to LoadMap(/Game/Maps/MainWorld)
+[2019.01.28-13.38.29:761][809]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.28-13.38.56:333][985]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'GamePlayWavesArray' of length 2 in '/Game/Interface/GamePlayMenu.GameplayMenu_C'!
+[2019.01.28-13.38.56:333][985]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'GamePlayWavesTimeArray' of length 2 in '/Game/Interface/GamePlayMenu.GameplayMenu_C'!
+[2019.01.28-13.38.58:299][221]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.01.28-13.38.58:300][221]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.28-13.38.58:337][221]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.28-13.38.58:338][221]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.01.28-13.38.58:416][221]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.28-13.38.58:442][222]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.01.28-13.39.09:132][157]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.28-13.39.09:132][157]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.28-13.39.37:786][561]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Media/GameplayVoice2" FILE="C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Sounds/Media/GameplayVoice2.uasset" SILENT=true
+[2019.01.28-13.39.37:801][561]LogSavePackage: Moving 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/GameplayVoice2F4EB16C24DF287DF988487B1B24052EF.tmp' to 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Sounds/Media/GameplayVoice2.uasset'
+[2019.01.28-13.39.39:928][803]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.28-13.39.39:947][803]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.01.28-13.39.39:948][803]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.28-13.39.39:948][803]PIE: New page: PIE session: MainMenu (28 янв. 2019 г., 19:39:39)
+[2019.01.28-13.39.39:949][803]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2019.01.28-13.39.39:951][803]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002372s)
+[2019.01.28-13.39.39:952][803]LogAIModule: Creating AISystem for world MainMenu
+[2019.01.28-13.39.39:952][803]LogPlayLevel: PIE: World Init took: (0.000782s)
+[2019.01.28-13.39.39:952][803]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.003599s)
+[2019.01.28-13.39.40:063][803]LogInit: XAudio2 using 'Наушники (Устройство с поддержкой High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.28-13.39.40:076][803]LogInit: FAudioDevice initialized.
+[2019.01.28-13.39.40:109][803]LogLoad: Game class is 'MainGameMode_C'
+[2019.01.28-13.39.40:110][803]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2019.01.28-16.39.40
+[2019.01.28-13.39.40:110][803]LogWorld: Bringing up level for play took: 0.000852
+[2019.01.28-13.39.40:125][803]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.28-13.39.40:125][803]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMenu 0,251
+[2019.01.28-13.39.40:126][803]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.01.28-13.39.40:857][890]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.28-13.39.40:942][900]LogNet: Browse: /Game/Maps/MainWorld
+[2019.01.28-13.39.40:942][900]LogLoad: LoadMap: /Game/Maps/MainWorld
+[2019.01.28-13.39.41:040][900]LogAIModule: Creating AISystem for world MainWorld
+[2019.01.28-13.39.41:041][900]LogLoad: Game class is 'MainGameMode_C'
+[2019.01.28-13.39.41:043][900]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainWorld.MainWorld up for play (max tick rate 0) at 2019.01.28-16.39.41
+[2019.01.28-13.39.41:043][900]LogWorld: Bringing up level for play took: 0.001684
+[2019.01.28-13.39.41:044][900]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.01.28-13.39.41:044][900]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.01.28-13.39.41:046][900]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.28-13.39.41:046][900]LogLoad: Took 0.104134 seconds to LoadMap(/Game/Maps/MainWorld)
+[2019.01.28-13.39.41:620][968]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.28-13.40.44:462][ 75]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\happy\OneDrive\Рабочий стол\untitled.wav)
+[2019.01.28-13.40.56:194][458]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.01.28-13.40.56:194][458]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.28-13.40.56:229][458]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.28-13.40.56:229][458]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.01.28-13.40.56:321][458]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.28-13.40.56:348][459]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.01.28-13.41.03:566][929]LogSlate: Window 'Delete Assets' being destroyed
+[2019.01.28-13.41.04:014][929]LogSlate: Window 'GameplayMenu*' being destroyed
+[2019.01.28-13.41.09:022][427]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Voice/GPwave1" FILE="C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Sounds/Voice/GPwave1.uasset" SILENT=true
+[2019.01.28-13.41.09:028][427]LogSavePackage: Moving 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/GPwave1F91A34B94B2DA92741AF56B1DE7A7148.tmp' to 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Sounds/Voice/GPwave1.uasset'
+[2019.01.28-13.41.17:894][352]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Interface/GamePlayMenu.GameplayMenu
+[2019.01.28-13.41.22:286][621]BlueprintLog: New page: Compile GameplayMenu
+[2019.01.28-13.41.29:058][115]LogAssetEditorManager: Opening Asset editor for DialogueWave /Game/Sounds/Media/GameplayVoice1.GameplayVoice1
+[2019.01.28-13.41.48:214][630]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Media/GameplayVoice1" FILE="C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Sounds/Media/GameplayVoice1.uasset" SILENT=true
+[2019.01.28-13.41.48:229][630]LogSavePackage: Moving 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/GameplayVoice174B1C20D4727B8149FFA7D8C6F8F40C1.tmp' to 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Sounds/Media/GameplayVoice1.uasset'
+[2019.01.28-13.41.50:196][856]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.28-13.41.50:218][856]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.01.28-13.41.50:219][856]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.28-13.41.50:219][856]PIE: New page: PIE session: MainMenu (28 янв. 2019 г., 19:41:50)
+[2019.01.28-13.41.50:220][856]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2019.01.28-13.41.50:222][856]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002389s)
+[2019.01.28-13.41.50:223][856]LogAIModule: Creating AISystem for world MainMenu
+[2019.01.28-13.41.50:223][856]LogPlayLevel: PIE: World Init took: (0.000768s)
+[2019.01.28-13.41.50:223][856]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.003585s)
+[2019.01.28-13.41.50:334][856]LogInit: XAudio2 using 'Наушники (Устройство с поддержкой High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.28-13.41.50:348][856]LogInit: FAudioDevice initialized.
+[2019.01.28-13.41.50:376][856]LogLoad: Game class is 'MainGameMode_C'
+[2019.01.28-13.41.50:378][856]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2019.01.28-16.41.50
+[2019.01.28-13.41.50:378][856]LogWorld: Bringing up level for play took: 0.000813
+[2019.01.28-13.41.50:392][856]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.28-13.41.50:392][856]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMenu 0,519
+[2019.01.28-13.41.50:392][856]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.01.28-13.41.52:531][109]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.28-13.41.52:606][118]LogNet: Browse: /Game/Maps/MainWorld
+[2019.01.28-13.41.52:607][118]LogLoad: LoadMap: /Game/Maps/MainWorld
+[2019.01.28-13.41.52:748][118]LogAIModule: Creating AISystem for world MainWorld
+[2019.01.28-13.41.52:748][118]LogLoad: Game class is 'MainGameMode_C'
+[2019.01.28-13.41.52:750][118]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainWorld.MainWorld up for play (max tick rate 0) at 2019.01.28-16.41.52
+[2019.01.28-13.41.52:750][118]LogWorld: Bringing up level for play took: 0.001277
+[2019.01.28-13.41.52:751][118]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.01.28-13.41.52:751][118]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.01.28-13.41.52:753][118]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.28-13.41.52:753][118]LogLoad: Took 0.146326 seconds to LoadMap(/Game/Maps/MainWorld)
+[2019.01.28-13.41.53:484][205]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.28-13.41.55:390][431]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave GPwave1...
+[2019.01.28-13.41.55:495][431]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 844684 while cooking SoundWave /Game/Sounds/Voice/GPwave1.GPwave1.
+[2019.01.28-13.42.05:041][575]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.01.28-13.42.05:042][575]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.28-13.42.05:077][575]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.28-13.42.05:077][575]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.01.28-13.42.05:166][575]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.28-13.42.05:185][576]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.01.28-13.42.16:445][700]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.28-13.42.16:465][700]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.01.28-13.42.16:466][700]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.28-13.42.16:466][700]PIE: New page: PIE session: MainMenu (28 янв. 2019 г., 19:42:16)
+[2019.01.28-13.42.16:467][700]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2019.01.28-13.42.16:469][700]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002357s)
+[2019.01.28-13.42.16:470][700]LogAIModule: Creating AISystem for world MainMenu
+[2019.01.28-13.42.16:470][700]LogPlayLevel: PIE: World Init took: (0.000790s)
+[2019.01.28-13.42.16:470][700]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.003572s)
+[2019.01.28-13.42.16:588][700]LogInit: XAudio2 using 'Наушники (Устройство с поддержкой High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.28-13.42.16:600][700]LogInit: FAudioDevice initialized.
+[2019.01.28-13.42.16:636][700]LogLoad: Game class is 'MainGameMode_C'
+[2019.01.28-13.42.16:638][700]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2019.01.28-16.42.16
+[2019.01.28-13.42.16:638][700]LogWorld: Bringing up level for play took: 0.001014
+[2019.01.28-13.42.16:652][700]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.28-13.42.16:652][700]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMenu 0,777
+[2019.01.28-13.42.16:652][700]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.01.28-13.42.17:560][808]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.28-13.42.17:669][821]LogNet: Browse: /Game/Maps/MainWorld
+[2019.01.28-13.42.17:669][821]LogLoad: LoadMap: /Game/Maps/MainWorld
+[2019.01.28-13.42.17:779][821]LogAIModule: Creating AISystem for world MainWorld
+[2019.01.28-13.42.17:780][821]LogLoad: Game class is 'MainGameMode_C'
+[2019.01.28-13.42.17:781][821]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainWorld.MainWorld up for play (max tick rate 0) at 2019.01.28-16.42.17
+[2019.01.28-13.42.17:782][821]LogWorld: Bringing up level for play took: 0.001241
+[2019.01.28-13.42.17:782][821]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.01.28-13.42.17:784][821]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.01.28-13.42.17:785][821]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.28-13.42.17:785][821]LogLoad: Took 0.115400 seconds to LoadMap(/Game/Maps/MainWorld)
+[2019.01.28-13.42.18:891][953]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.28-13.42.31:271][438]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.01.28-13.42.31:272][438]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.28-13.42.31:309][438]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.28-13.42.31:309][438]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.01.28-13.42.31:405][438]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.28-13.42.31:431][439]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.01.28-13.44.07:206][ 80]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MainMenu' took 0.089
+[2019.01.28-13.44.07:208][ 80]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Interface/GamePlayMenu] ([1] browsable assets)...
+[2019.01.28-13.44.07:208][ 80]OBJ SavePackage: Finished generating thumbnails for package [/Game/Interface/GamePlayMenu]
+[2019.01.28-13.44.07:326][ 80]LogSavePackage: Moving 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/GamePlayMenu_Auto2821DECDC4D86008AC331E4B705FAD8CD.tmp' to 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/Autosaves/Game/Interface/GamePlayMenu_Auto2.uasset'
+[2019.01.28-13.44.07:329][ 80]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sounds/Voice/GameplayWave1] ([1] browsable assets)...
+[2019.01.28-13.44.07:329][ 80]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sounds/Voice/GameplayWave1]
+[2019.01.28-13.44.07:343][ 80]LogSavePackage: Moving 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/GameplayWave1_Auto2DEDB09824825219273E2ACA47B829987.tmp' to 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/Autosaves/Game/Sounds/Voice/GameplayWave1_Auto2.uasset'
+[2019.01.28-13.44.07:345][ 80]LogFileHelpers: Auto-saving content packages took 0.138
+[2019.01.28-13.44.38:355][204]LogRenderer: Reallocating scene render targets to support 1060x576 Format 10 NumSamples 1 (Frame:37985).
+[2019.01.28-13.44.38:399][205]LogRenderer: Reallocating scene render targets to support 1060x596 Format 10 NumSamples 1 (Frame:37987).
+[2019.01.28-13.44.38:846][206]LogRenderer: Reallocating scene render targets to support 1060x628 Format 10 NumSamples 1 (Frame:37989).
+[2019.01.28-13.44.38:890][207]LogRenderer: Reallocating scene render targets to support 1060x752 Format 10 NumSamples 1 (Frame:37991).
+[2019.01.28-13.44.38:934][208]LogRenderer: Reallocating scene render targets to support 1060x756 Format 10 NumSamples 1 (Frame:37993).
+[2019.01.28-13.44.52:000][703]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Media/GameplayVoice3" FILE="C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Sounds/Media/GameplayVoice3.uasset" SILENT=true
+[2019.01.28-13.44.52:003][703]LogSavePackage: Moving 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/GameplayVoice33020983C4805C662F72C0DAEB3151AF7.tmp' to 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Sounds/Media/GameplayVoice3.uasset'
+[2019.01.28-13.45.02:434][899]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Media/GameplayVoice4" FILE="C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Sounds/Media/GameplayVoice4.uasset" SILENT=true
+[2019.01.28-13.45.02:437][899]LogSavePackage: Moving 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/GameplayVoice4C24B57424B3EEF20D3448DA5F4D517E6.tmp' to 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Sounds/Media/GameplayVoice4.uasset'
+[2019.01.28-13.45.10:523][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Media/GameplayVoice5" FILE="C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Sounds/Media/GameplayVoice5.uasset" SILENT=true
+[2019.01.28-13.45.10:526][816]LogSavePackage: Moving 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/GameplayVoice539D5303A4881A56BB4803BB0F8EFA381.tmp' to 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Sounds/Media/GameplayVoice5.uasset'
+[2019.01.28-13.45.19:946][893]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Media/GameplayVoice6" FILE="C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Sounds/Media/GameplayVoice6.uasset" SILENT=true
+[2019.01.28-13.45.19:949][893]LogSavePackage: Moving 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/GameplayVoice64F2E003341BF86ED27CDE6AB79F813DB.tmp' to 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Sounds/Media/GameplayVoice6.uasset'
+[2019.01.28-13.45.34:844][300]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\happy\OneDrive\Рабочий стол\untitled.wav)
+[2019.01.28-13.45.39:183][812]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Voice/GPwave3" FILE="C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Sounds/Voice/GPwave3.uasset" SILENT=true
+[2019.01.28-13.45.39:189][812]LogSavePackage: Moving 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/GPwave3A00A55D64558DA26C9DD35BF7E7EDAD1.tmp' to 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Sounds/Voice/GPwave3.uasset'
+[2019.01.28-13.45.40:202][881]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave GPwave3...
+[2019.01.28-13.45.40:316][881]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 933732 while cooking SoundWave /Game/Sounds/Voice/GPwave3.GPwave3.
+[2019.01.28-13.45.51:844][504]LogAssetEditorManager: Opening Asset editor for DialogueWave /Game/Sounds/Media/GameplayVoice3.GameplayVoice3
+[2019.01.28-13.46.04:240][904]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Media/GameplayVoice3" FILE="C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Sounds/Media/GameplayVoice3.uasset" SILENT=true
+[2019.01.28-13.46.04:255][904]LogSavePackage: Moving 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/GameplayVoice3538E4668464A435B5B0C6EA730A91B38.tmp' to 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Sounds/Media/GameplayVoice3.uasset'
+[2019.01.28-13.49.14:098][  9]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\happy\OneDrive\Рабочий стол\untitled.wav)
+[2019.01.28-13.49.36:240][647]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Voice/GPwave4" FILE="C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Sounds/Voice/GPwave4.uasset" SILENT=true
+[2019.01.28-13.49.36:247][647]LogSavePackage: Moving 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/GPwave4CF9A9AAF4DA77483B019DD9B6E4D3F0E.tmp' to 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Sounds/Voice/GPwave4.uasset'
+[2019.01.28-13.49.42:057][271]LogAssetEditorManager: Opening Asset editor for DialogueWave /Game/Sounds/Media/GameplayVoice4.GameplayVoice4
+[2019.01.28-13.50.02:197][999]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Media/GameplayVoice4" FILE="C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Sounds/Media/GameplayVoice4.uasset" SILENT=true
+[2019.01.28-13.50.02:216][999]LogSavePackage: Moving 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/GameplayVoice4EDDEAFD94CF9E3193449BBAC7D44E28A.tmp' to 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Sounds/Media/GameplayVoice4.uasset'
+[2019.01.28-13.50.03:550][136]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Media/GameplayVoice3" FILE="C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Sounds/Media/GameplayVoice3.uasset" SILENT=true
+[2019.01.28-13.50.03:564][136]LogSavePackage: Moving 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/GameplayVoice3F38A7B87457B7F818C4DC084F9E78180.tmp' to 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Sounds/Media/GameplayVoice3.uasset'
+[2019.01.28-13.50.06:437][442]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interface/GamePlayMenu" FILE="C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Interface/GamePlayMenu.uasset" SILENT=true
+[2019.01.28-13.50.06:495][442]LogSavePackage: Moving 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/GamePlayMenuE8AB8603478C3169BA3415999418125B.tmp' to 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Interface/GamePlayMenu.uasset'
+[2019.01.28-13.50.06:501][442]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Voice/GameplayWave1" FILE="C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Sounds/Voice/GameplayWave1.uasset" SILENT=true
+[2019.01.28-13.50.06:515][442]LogSavePackage: Moving 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/GameplayWave1312AFB314C346FFFC51336B01115A886.tmp' to 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Sounds/Voice/GameplayWave1.uasset'
+[2019.01.28-14.30.36:405][744]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\happy\OneDrive\Рабочий стол\GPwave8.wav)
+[2019.01.28-14.30.36:420][744]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\happy\OneDrive\Рабочий стол\GPwave9.wav)
+[2019.01.28-14.30.36:440][744]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\happy\OneDrive\Рабочий стол\GPwave10.wav)
+[2019.01.28-14.30.36:456][744]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\happy\OneDrive\Рабочий стол\GPwave11.wav)
+[2019.01.28-14.30.36:473][744]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\happy\OneDrive\Рабочий стол\GPwave12.wav)
+[2019.01.28-14.30.36:494][744]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\happy\OneDrive\Рабочий стол\GPwave13.wav)
+[2019.01.28-14.30.36:505][744]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\happy\OneDrive\Рабочий стол\GPwave5.wav)
+[2019.01.28-14.30.36:517][744]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\happy\OneDrive\Рабочий стол\GPwave6.wav)
+[2019.01.28-14.30.36:530][744]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\happy\OneDrive\Рабочий стол\GPwave7.wav)
+[2019.01.28-14.31.12:974][923]LogContentBrowser: Verbose: The majority of assets in the view are of type: SoundWave
+[2019.01.28-14.31.40:009][ 68]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Media/GameplayVoice7" FILE="C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Sounds/Media/GameplayVoice7.uasset" SILENT=true
+[2019.01.28-14.31.40:012][ 68]LogSavePackage: Moving 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/GameplayVoice7792DBE95432C808FE65FF6BFC2FAB23D.tmp' to 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Sounds/Media/GameplayVoice7.uasset'
+[2019.01.28-14.32.07:108][192]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Media/GameplayVoice8" FILE="C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Sounds/Media/GameplayVoice8.uasset" SILENT=true
+[2019.01.28-14.32.07:111][192]LogSavePackage: Moving 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/GameplayVoice8F6C000704DCA79436B0B669AB9C672E0.tmp' to 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Sounds/Media/GameplayVoice8.uasset'
+[2019.01.28-14.32.20:186][704]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Media/GameplayVoice9" FILE="C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Sounds/Media/GameplayVoice9.uasset" SILENT=true
+[2019.01.28-14.32.20:189][704]LogSavePackage: Moving 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/GameplayVoice910F8CDBD4DAB27272098B2915746DEDA.tmp' to 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Sounds/Media/GameplayVoice9.uasset'
+[2019.01.28-14.32.44:235][534]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Media/GameplayVoice10" FILE="C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Sounds/Media/GameplayVoice10.uasset" SILENT=true
+[2019.01.28-14.32.44:237][534]LogSavePackage: Moving 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/GameplayVoice10AD8064CB4B03661BAF8663A322654AD5.tmp' to 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Sounds/Media/GameplayVoice10.uasset'
+[2019.01.28-14.33.08:634][404]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Media/GameplayVoice11" FILE="C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Sounds/Media/GameplayVoice11.uasset" SILENT=true
+[2019.01.28-14.33.08:637][404]LogSavePackage: Moving 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/GameplayVoice11E0DF1B0B4ED5DEBCA17FE78B4F8D1F07.tmp' to 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Sounds/Media/GameplayVoice11.uasset'
+[2019.01.28-14.33.20:029][712]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Media/GameplayVoice12" FILE="C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Sounds/Media/GameplayVoice12.uasset" SILENT=true
+[2019.01.28-14.33.20:032][712]LogSavePackage: Moving 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/GameplayVoice12350D5F914BC67AEFB3C6769E24200E9E.tmp' to 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Sounds/Media/GameplayVoice12.uasset'
+[2019.01.28-14.33.32:209][117]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Media/GameplayVoice13" FILE="C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Sounds/Media/GameplayVoice13.uasset" SILENT=true
+[2019.01.28-14.33.32:211][117]LogSavePackage: Moving 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/GameplayVoice131C23ABEE4DB51D8B63B8A9B5B88ED4E4.tmp' to 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Sounds/Media/GameplayVoice13.uasset'
+[2019.01.28-14.33.35:032][402]LogAssetEditorManager: Opening Asset editor for DialogueWave /Game/Sounds/Media/GameplayVoice10.GameplayVoice10
+[2019.01.28-14.34.08:801][846]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Media/GameplayVoice10" FILE="C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Sounds/Media/GameplayVoice10.uasset" SILENT=true
+[2019.01.28-14.34.08:821][846]LogSavePackage: Moving 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/GameplayVoice10B563F5644E64AEC5D9BE6FB1312DB9CC.tmp' to 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Sounds/Media/GameplayVoice10.uasset'
+[2019.01.28-14.34.29:958][198]LogAssetEditorManager: Opening Asset editor for DialogueWave /Game/Sounds/Media/GameplayVoice7.GameplayVoice7
+[2019.01.28-14.34.39:000][167]LogAssetEditorManager: Opening Asset editor for DialogueWave /Game/Sounds/Media/GameplayVoice6.GameplayVoice6
+[2019.01.28-14.34.47:989][142]LogAssetEditorManager: Opening Asset editor for DialogueWave /Game/Sounds/Media/GameplayVoice5.GameplayVoice5
+[2019.01.28-14.35.03:137][770]LogAssetEditorManager: Opening Asset editor for DialogueWave /Game/Sounds/Media/GameplayVoice4.GameplayVoice4
+[2019.01.28-14.35.43:440][ 10]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MainMenu' took 0.090
+[2019.01.28-14.35.43:441][ 10]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sounds/Media/GameplayVoice5] ([1] browsable assets)...
+[2019.01.28-14.35.43:442][ 10]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sounds/Media/GameplayVoice5]
+[2019.01.28-14.35.43:457][ 10]LogSavePackage: Moving 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/GameplayVoice5_Auto32F080D97472B409E69AEB9A719DD76EE.tmp' to 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/Autosaves/Game/Sounds/Media/GameplayVoice5_Auto3.uasset'
+[2019.01.28-14.35.43:460][ 10]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sounds/Media/GameplayVoice6] ([1] browsable assets)...
+[2019.01.28-14.35.43:460][ 10]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sounds/Media/GameplayVoice6]
+[2019.01.28-14.35.43:475][ 10]LogSavePackage: Moving 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/GameplayVoice6_Auto31EE17BDE4D0C6C1E2DA4E490E67C22D3.tmp' to 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/Autosaves/Game/Sounds/Media/GameplayVoice6_Auto3.uasset'
+[2019.01.28-14.35.43:477][ 10]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sounds/Voice/GPwave8] ([1] browsable assets)...
+[2019.01.28-14.35.43:486][ 10]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Sounds/Voice/GPwave8.GPwave8]
+[2019.01.28-14.35.43:487][ 10]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sounds/Voice/GPwave8]
+[2019.01.28-14.35.43:487][ 10]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Voice/GPwave8" FILE="C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/Autosaves/Game/Sounds/Voice/GPwave8_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2019.01.28-14.35.43:493][ 10]LogSavePackage: Moving 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/GPwave8_Auto35DA803864DD02CF3388D489386807502.tmp' to 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/Autosaves/Game/Sounds/Voice/GPwave8_Auto3.uasset'
+[2019.01.28-14.35.43:496][ 10]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sounds/Voice/GPwave9] ([1] browsable assets)...
+[2019.01.28-14.35.43:505][ 10]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Sounds/Voice/GPwave9.GPwave9]
+[2019.01.28-14.35.43:505][ 10]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sounds/Voice/GPwave9]
+[2019.01.28-14.35.43:505][ 10]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Voice/GPwave9" FILE="C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/Autosaves/Game/Sounds/Voice/GPwave9_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2019.01.28-14.35.43:512][ 10]LogSavePackage: Moving 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/GPwave9_Auto3527EC4024846AED1582A7CAD850A1D79.tmp' to 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/Autosaves/Game/Sounds/Voice/GPwave9_Auto3.uasset'
+[2019.01.28-14.35.43:515][ 10]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sounds/Voice/GPwave10] ([1] browsable assets)...
+[2019.01.28-14.35.43:524][ 10]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Sounds/Voice/GPwave10.GPwave10]
+[2019.01.28-14.35.43:524][ 10]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sounds/Voice/GPwave10]
+[2019.01.28-14.35.43:525][ 10]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Voice/GPwave10" FILE="C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/Autosaves/Game/Sounds/Voice/GPwave10_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2019.01.28-14.35.43:531][ 10]LogSavePackage: Moving 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/GPwave10_Auto3586315894E6789126A2B5889DA5F4A40.tmp' to 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/Autosaves/Game/Sounds/Voice/GPwave10_Auto3.uasset'
+[2019.01.28-14.35.43:534][ 10]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sounds/Voice/GPwave11] ([1] browsable assets)...
+[2019.01.28-14.35.43:543][ 10]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Sounds/Voice/GPwave11.GPwave11]
+[2019.01.28-14.35.43:543][ 10]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sounds/Voice/GPwave11]
+[2019.01.28-14.35.43:543][ 10]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Voice/GPwave11" FILE="C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/Autosaves/Game/Sounds/Voice/GPwave11_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2019.01.28-14.35.43:550][ 10]LogSavePackage: Moving 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/GPwave11_Auto38E4C0A2745C68D5AE7F14C977FF1F4F6.tmp' to 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/Autosaves/Game/Sounds/Voice/GPwave11_Auto3.uasset'
+[2019.01.28-14.35.43:552][ 10]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sounds/Voice/GPwave12] ([1] browsable assets)...
+[2019.01.28-14.35.43:562][ 10]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Sounds/Voice/GPwave12.GPwave12]
+[2019.01.28-14.35.43:562][ 10]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sounds/Voice/GPwave12]
+[2019.01.28-14.35.43:562][ 10]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Voice/GPwave12" FILE="C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/Autosaves/Game/Sounds/Voice/GPwave12_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2019.01.28-14.35.43:571][ 10]LogSavePackage: Moving 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/GPwave12_Auto3E936BCA143BBCC752B55DBB9DF980187.tmp' to 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/Autosaves/Game/Sounds/Voice/GPwave12_Auto3.uasset'
+[2019.01.28-14.35.43:574][ 10]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sounds/Voice/GPwave13] ([1] browsable assets)...
+[2019.01.28-14.35.43:582][ 10]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Sounds/Voice/GPwave13.GPwave13]
+[2019.01.28-14.35.43:582][ 10]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sounds/Voice/GPwave13]
+[2019.01.28-14.35.43:582][ 10]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Voice/GPwave13" FILE="C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/Autosaves/Game/Sounds/Voice/GPwave13_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2019.01.28-14.35.43:588][ 10]LogSavePackage: Moving 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/GPwave13_Auto3FF8ED1084488972ACAE66F9E56A93C8F.tmp' to 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/Autosaves/Game/Sounds/Voice/GPwave13_Auto3.uasset'
+[2019.01.28-14.35.43:590][ 10]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sounds/Voice/GPwave5] ([1] browsable assets)...
+[2019.01.28-14.35.43:598][ 10]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Sounds/Voice/GPwave5.GPwave5]
+[2019.01.28-14.35.43:598][ 10]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sounds/Voice/GPwave5]
+[2019.01.28-14.35.43:600][ 10]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Voice/GPwave5" FILE="C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/Autosaves/Game/Sounds/Voice/GPwave5_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2019.01.28-14.35.43:605][ 10]LogSavePackage: Moving 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/GPwave5_Auto374639340475023831ABEE29DE87A9805.tmp' to 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/Autosaves/Game/Sounds/Voice/GPwave5_Auto3.uasset'
+[2019.01.28-14.35.43:608][ 10]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sounds/Voice/GPwave6] ([1] browsable assets)...
+[2019.01.28-14.35.43:617][ 10]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Sounds/Voice/GPwave6.GPwave6]
+[2019.01.28-14.35.43:617][ 10]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sounds/Voice/GPwave6]
+[2019.01.28-14.35.43:617][ 10]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Voice/GPwave6" FILE="C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/Autosaves/Game/Sounds/Voice/GPwave6_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2019.01.28-14.35.43:624][ 10]LogSavePackage: Moving 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/GPwave6_Auto395E418B54AE4B749E781C1899E86585B.tmp' to 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/Autosaves/Game/Sounds/Voice/GPwave6_Auto3.uasset'
+[2019.01.28-14.35.43:626][ 10]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sounds/Voice/GPwave7] ([1] browsable assets)...
+[2019.01.28-14.35.43:633][ 10]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Sounds/Voice/GPwave7.GPwave7]
+[2019.01.28-14.35.43:634][ 10]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sounds/Voice/GPwave7]
+[2019.01.28-14.35.43:634][ 10]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Voice/GPwave7" FILE="C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/Autosaves/Game/Sounds/Voice/GPwave7_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2019.01.28-14.35.43:641][ 10]LogSavePackage: Moving 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/GPwave7_Auto3855715794D3E7AC435BBD29714ACEAB1.tmp' to 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/Autosaves/Game/Sounds/Voice/GPwave7_Auto3.uasset'
+[2019.01.28-14.35.43:644][ 10]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sounds/Media/GameplayVoice7] ([1] browsable assets)...
+[2019.01.28-14.35.43:644][ 10]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sounds/Media/GameplayVoice7]
+[2019.01.28-14.35.43:663][ 10]LogSavePackage: Moving 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/GameplayVoice7_Auto31D27A58B49CFCC865F790F82351DFD8C.tmp' to 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/Autosaves/Game/Sounds/Media/GameplayVoice7_Auto3.uasset'
+[2019.01.28-14.35.43:666][ 10]LogFileHelpers: Auto-saving content packages took 0.226
+[2019.01.28-14.36.43:710][862]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Media/GameplayVoice5" FILE="C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Sounds/Media/GameplayVoice5.uasset" SILENT=true
+[2019.01.28-14.36.43:726][862]LogSavePackage: Moving 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/GameplayVoice558F8388E4AC8522907E113BA3ACDC714.tmp' to 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Sounds/Media/GameplayVoice5.uasset'
+[2019.01.28-14.36.58:435][857]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Media/GameplayVoice6" FILE="C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Sounds/Media/GameplayVoice6.uasset" SILENT=true
+[2019.01.28-14.36.58:451][857]LogSavePackage: Moving 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/GameplayVoice6CD6D9D654C30031D479ADABC21239D01.tmp' to 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Sounds/Media/GameplayVoice6.uasset'
+[2019.01.28-14.37.39:372][198]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Media/GameplayVoice7" FILE="C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Sounds/Media/GameplayVoice7.uasset" SILENT=true
+[2019.01.28-14.37.39:389][198]LogSavePackage: Moving 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/GameplayVoice7506AB2BB4E415EB832957DA5E213ABED.tmp' to 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Sounds/Media/GameplayVoice7.uasset'
+[2019.01.28-14.37.49:487][280]LogAssetEditorManager: Opening Asset editor for DialogueWave /Game/Sounds/Media/GameplayVoice8.GameplayVoice8
+[2019.01.28-14.38.18:874][759]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Media/GameplayVoice8" FILE="C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Sounds/Media/GameplayVoice8.uasset" SILENT=true
+[2019.01.28-14.38.18:898][759]LogSavePackage: Moving 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/GameplayVoice8209D92C64EEC518B3D2C41BC07B1CE74.tmp' to 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Sounds/Media/GameplayVoice8.uasset'
+[2019.01.28-14.38.42:482][305]LogAssetEditorManager: Opening Asset editor for DialogueWave /Game/Sounds/Media/GameplayVoice9.GameplayVoice9
+[2019.01.28-14.39.03:706][575]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Media/GameplayVoice8" FILE="C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Sounds/Media/GameplayVoice8.uasset" SILENT=true
+[2019.01.28-14.39.03:723][575]LogSavePackage: Moving 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/GameplayVoice80DB80A0F48C2A38EA7973BABA16CA873.tmp' to 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Sounds/Media/GameplayVoice8.uasset'
+[2019.01.28-14.39.07:156][963]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Media/GameplayVoice9" FILE="C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Sounds/Media/GameplayVoice9.uasset" SILENT=true
+[2019.01.28-14.39.07:172][963]LogSavePackage: Moving 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/GameplayVoice9B6E721BC425B3E649872FA90E84E66E2.tmp' to 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Sounds/Media/GameplayVoice9.uasset'
+[2019.01.28-14.39.33:928][445]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Media/GameplayVoice9" FILE="C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Sounds/Media/GameplayVoice9.uasset" SILENT=true
+[2019.01.28-14.39.33:944][445]LogSavePackage: Moving 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/GameplayVoice9640116474D99D23BA379EC9E98900E4B.tmp' to 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Sounds/Media/GameplayVoice9.uasset'
+[2019.01.28-14.39.40:295][139]LogAssetEditorManager: Opening Asset editor for DialogueWave /Game/Sounds/Media/GameplayVoice7.GameplayVoice7
+[2019.01.28-14.39.50:878][330]LogAssetEditorManager: Opening Asset editor for DialogueWave /Game/Sounds/Media/GameplayVoice10.GameplayVoice10
+[2019.01.28-14.40.30:093][373]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Media/GameplayVoice10" FILE="C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Sounds/Media/GameplayVoice10.uasset" SILENT=true
+[2019.01.28-14.40.30:110][373]LogSavePackage: Moving 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/GameplayVoice10B28C3ADD4933F628C2AD32885A1CB21C.tmp' to 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Sounds/Media/GameplayVoice10.uasset'
+[2019.01.28-14.40.36:701][ 53]LogAssetEditorManager: Opening Asset editor for DialogueWave /Game/Sounds/Media/GameplayVoice11.GameplayVoice11
+[2019.01.28-14.40.59:070][855]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Media/GameplayVoice11" FILE="C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Sounds/Media/GameplayVoice11.uasset" SILENT=true
+[2019.01.28-14.40.59:087][855]LogSavePackage: Moving 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/GameplayVoice11CC4792734B6961E8AF50758D312229F2.tmp' to 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Sounds/Media/GameplayVoice11.uasset'
+[2019.01.28-14.41.09:027][273]LogAssetEditorManager: Opening Asset editor for DialogueWave /Game/Sounds/Media/GameplayVoice12.GameplayVoice12
+[2019.01.28-14.41.14:855][945]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Media/GameplayVoice12" FILE="C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Sounds/Media/GameplayVoice12.uasset" SILENT=true
+[2019.01.28-14.41.14:872][945]LogSavePackage: Moving 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/GameplayVoice120489E49148F57B9AE3FC388599E58893.tmp' to 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Sounds/Media/GameplayVoice12.uasset'
+[2019.01.28-14.41.26:647][803]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Media/GameplayVoice12" FILE="C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Sounds/Media/GameplayVoice12.uasset" SILENT=true
+[2019.01.28-14.41.26:663][803]LogSavePackage: Moving 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/GameplayVoice12B22969864BBA027046A5A58F70E52124.tmp' to 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Sounds/Media/GameplayVoice12.uasset'
+[2019.01.28-14.41.30:098][153]LogAssetEditorManager: Opening Asset editor for DialogueWave /Game/Sounds/Media/GameplayVoice13.GameplayVoice13
+[2019.01.28-14.41.49:805][366]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Media/GameplayVoice13" FILE="C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Sounds/Media/GameplayVoice13.uasset" SILENT=true
+[2019.01.28-14.41.49:821][366]LogSavePackage: Moving 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/GameplayVoice13F8BA414943A5602C726F5ABEA7D55FE3.tmp' to 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Sounds/Media/GameplayVoice13.uasset'
+[2019.01.28-14.42.41:227][257]BlueprintLog: New page: Compile GameplayMenu
+[2019.01.28-14.42.54:509][656]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.28-14.42.54:528][656]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.01.28-14.42.54:529][656]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.28-14.42.54:529][656]PIE: New page: PIE session: MainMenu (28 янв. 2019 г., 20:42:54)
+[2019.01.28-14.42.54:529][656]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2019.01.28-14.42.54:532][656]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002442s)
+[2019.01.28-14.42.54:532][656]LogAIModule: Creating AISystem for world MainMenu
+[2019.01.28-14.42.54:533][656]LogPlayLevel: PIE: World Init took: (0.000758s)
+[2019.01.28-14.42.54:533][656]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.003615s)
+[2019.01.28-14.42.54:626][656]LogInit: XAudio2 using 'Наушники (Устройство с поддержкой High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.28-14.42.54:639][656]LogInit: FAudioDevice initialized.
+[2019.01.28-14.42.54:671][656]LogLoad: Game class is 'MainGameMode_C'
+[2019.01.28-14.42.54:672][656]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2019.01.28-17.42.54
+[2019.01.28-14.42.54:673][656]LogWorld: Bringing up level for play took: 0.001178
+[2019.01.28-14.42.54:687][656]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.28-14.42.54:687][656]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMenu 0,813
+[2019.01.28-14.42.54:687][656]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.01.28-14.42.55:888][798]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.28-14.42.55:980][809]LogNet: Browse: /Game/Maps/MainWorld
+[2019.01.28-14.42.55:981][809]LogLoad: LoadMap: /Game/Maps/MainWorld
+[2019.01.28-14.42.56:103][809]LogAIModule: Creating AISystem for world MainWorld
+[2019.01.28-14.42.56:103][809]LogLoad: Game class is 'MainGameMode_C'
+[2019.01.28-14.42.56:105][809]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainWorld.MainWorld up for play (max tick rate 0) at 2019.01.28-17.42.56
+[2019.01.28-14.42.56:105][809]LogWorld: Bringing up level for play took: 0.001264
+[2019.01.28-14.42.56:106][809]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.01.28-14.42.56:106][809]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.01.28-14.42.56:107][809]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.28-14.42.56:108][809]LogLoad: Took 0.126983 seconds to LoadMap(/Game/Maps/MainWorld)
+[2019.01.28-14.43.00:033][279]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.28-14.43.11:487][642]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.28-14.43.24:697][225]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'GamePlayWavesTimeArray' of length 2 in '/Game/Interface/GamePlayMenu.GameplayMenu_C'!
+[2019.01.28-14.43.33:240][250]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'GamePlayWavesTimeArray' of length 2 in '/Game/Interface/GamePlayMenu.GameplayMenu_C'!
+[2019.01.28-14.43.33:245][251]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave GPwave4...
+[2019.01.28-14.43.33:487][251]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 2054044 while cooking SoundWave /Game/Sounds/Voice/GPwave4.GPwave4.
+[2019.01.28-14.43.38:004][780]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.01.28-14.43.38:005][780]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.28-14.43.38:041][780]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.28-14.43.38:042][780]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.01.28-14.43.38:134][780]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.28-14.43.38:162][781]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.01.28-14.44.49:019][840]BlueprintLog: New page: Compile GameplayMenu
+[2019.01.28-14.44.51:031][ 15]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.28-14.44.51:051][ 15]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.01.28-14.44.51:051][ 15]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.28-14.44.51:052][ 15]PIE: New page: PIE session: MainMenu (28 янв. 2019 г., 20:44:51)
+[2019.01.28-14.44.51:052][ 15]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2019.01.28-14.44.51:054][ 15]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002358s)
+[2019.01.28-14.44.51:055][ 15]LogAIModule: Creating AISystem for world MainMenu
+[2019.01.28-14.44.51:055][ 15]LogPlayLevel: PIE: World Init took: (0.000709s)
+[2019.01.28-14.44.51:055][ 15]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.003521s)
+[2019.01.28-14.44.51:167][ 15]LogInit: XAudio2 using 'Наушники (Устройство с поддержкой High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.28-14.44.51:180][ 15]LogInit: FAudioDevice initialized.
+[2019.01.28-14.44.51:216][ 15]LogLoad: Game class is 'MainGameMode_C'
+[2019.01.28-14.44.51:217][ 15]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2019.01.28-17.44.51
+[2019.01.28-14.44.51:217][ 15]LogWorld: Bringing up level for play took: 0.000929
+[2019.01.28-14.44.51:232][ 15]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.28-14.44.51:232][ 15]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMenu -0,642
+[2019.01.28-14.44.51:233][ 15]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.01.28-14.44.51:834][ 84]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.28-14.44.51:930][ 95]LogNet: Browse: /Game/Maps/MainWorld
+[2019.01.28-14.44.51:930][ 95]LogLoad: LoadMap: /Game/Maps/MainWorld
+[2019.01.28-14.44.52:040][ 95]LogAIModule: Creating AISystem for world MainWorld
+[2019.01.28-14.44.52:041][ 95]LogLoad: Game class is 'MainGameMode_C'
+[2019.01.28-14.44.52:043][ 95]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainWorld.MainWorld up for play (max tick rate 0) at 2019.01.28-17.44.52
+[2019.01.28-14.44.52:043][ 95]LogWorld: Bringing up level for play took: 0.001695
+[2019.01.28-14.44.52:044][ 95]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.01.28-14.44.52:044][ 95]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.01.28-14.44.52:046][ 95]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.28-14.44.52:046][ 95]LogLoad: Took 0.115517 seconds to LoadMap(/Game/Maps/MainWorld)
+[2019.01.28-14.44.52:763][180]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.28-14.45.02:749][378]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.01.28-14.45.02:750][378]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.28-14.45.02:786][378]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.28-14.45.02:786][378]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.01.28-14.45.02:877][378]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.28-14.45.02:894][379]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.01.28-14.45.11:173][995]BlueprintLog: New page: Compile GameplayMenu
+[2019.01.28-14.45.13:182][177]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.28-14.45.13:203][177]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.01.28-14.45.13:204][177]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.28-14.45.13:204][177]PIE: New page: PIE session: MainMenu (28 янв. 2019 г., 20:45:13)
+[2019.01.28-14.45.13:204][177]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2019.01.28-14.45.13:207][177]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002377s)
+[2019.01.28-14.45.13:208][177]LogAIModule: Creating AISystem for world MainMenu
+[2019.01.28-14.45.13:208][177]LogPlayLevel: PIE: World Init took: (0.000791s)
+[2019.01.28-14.45.13:208][177]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.003603s)
+[2019.01.28-14.45.13:322][177]LogInit: XAudio2 using 'Наушники (Устройство с поддержкой High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.28-14.45.13:335][177]LogInit: FAudioDevice initialized.
+[2019.01.28-14.45.13:368][177]LogLoad: Game class is 'MainGameMode_C'
+[2019.01.28-14.45.13:369][177]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2019.01.28-17.45.13
+[2019.01.28-14.45.13:370][177]LogWorld: Bringing up level for play took: 0.000791
+[2019.01.28-14.45.13:384][177]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.28-14.45.13:384][177]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMenu -0,49
+[2019.01.28-14.45.13:384][177]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.01.28-14.45.14:357][291]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.28-14.45.14:417][298]LogNet: Browse: /Game/Maps/MainWorld
+[2019.01.28-14.45.14:417][298]LogLoad: LoadMap: /Game/Maps/MainWorld
+[2019.01.28-14.45.14:537][298]LogAIModule: Creating AISystem for world MainWorld
+[2019.01.28-14.45.14:537][298]LogLoad: Game class is 'MainGameMode_C'
+[2019.01.28-14.45.14:539][298]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainWorld.MainWorld up for play (max tick rate 0) at 2019.01.28-17.45.14
+[2019.01.28-14.45.14:539][298]LogWorld: Bringing up level for play took: 0.001398
+[2019.01.28-14.45.14:540][298]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.01.28-14.45.14:540][298]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.01.28-14.45.14:541][298]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.28-14.45.14:542][298]LogLoad: Took 0.125133 seconds to LoadMap(/Game/Maps/MainWorld)
+[2019.01.28-14.45.15:106][365]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.28-14.45.36:739][949]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.01.28-14.45.36:740][949]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.28-14.45.36:776][949]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.28-14.45.36:777][949]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.01.28-14.45.36:872][949]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.28-14.45.36:893][950]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.01.28-14.45.45:967][595]BlueprintLog: New page: Compile GameplayMenu
+[2019.01.28-14.45.59:767][762]LogAssetEditorManager: Opening Asset editor for SoundWave /Game/Sounds/Voice/GPwave3.GPwave3
+[2019.01.28-14.47.02:729][281]BlueprintLog: New page: Compile GameplayMenu
+[2019.01.28-14.47.22:581][988]BlueprintLog: New page: Compile GameplayMenu
+[2019.01.28-14.47.33:908][914]BlueprintLog: New page: Compile GameplayMenu
+[2019.01.28-14.48.53:665][642]BlueprintLog: New page: Compile GameplayMenu
+[2019.01.28-14.48.58:693][896]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.28-14.48.58:713][896]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.01.28-14.48.58:713][896]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.28-14.48.58:714][896]PIE: New page: PIE session: MainMenu (28 янв. 2019 г., 20:48:58)
+[2019.01.28-14.48.58:714][896]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2019.01.28-14.48.58:716][896]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002444s)
+[2019.01.28-14.48.58:717][896]LogAIModule: Creating AISystem for world MainMenu
+[2019.01.28-14.48.58:717][896]LogPlayLevel: PIE: World Init took: (0.000767s)
+[2019.01.28-14.48.58:717][896]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.003671s)
+[2019.01.28-14.48.58:834][896]LogInit: XAudio2 using 'Наушники (Устройство с поддержкой High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.28-14.48.58:847][896]LogInit: FAudioDevice initialized.
+[2019.01.28-14.48.58:884][896]LogLoad: Game class is 'MainGameMode_C'
+[2019.01.28-14.48.58:886][896]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2019.01.28-17.48.58
+[2019.01.28-14.48.58:886][896]LogWorld: Bringing up level for play took: 0.000845
+[2019.01.28-14.48.58:900][896]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.28-14.48.58:900][896]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMenu 1,026
+[2019.01.28-14.48.58:901][896]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.01.28-14.48.59:786][  1]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.28-14.48.59:846][  8]LogNet: Browse: /Game/Maps/MainWorld
+[2019.01.28-14.48.59:846][  8]LogLoad: LoadMap: /Game/Maps/MainWorld
+[2019.01.28-14.48.59:964][  8]LogAIModule: Creating AISystem for world MainWorld
+[2019.01.28-14.48.59:964][  8]LogLoad: Game class is 'MainGameMode_C'
+[2019.01.28-14.48.59:966][  8]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainWorld.MainWorld up for play (max tick rate 0) at 2019.01.28-17.48.59
+[2019.01.28-14.48.59:966][  8]LogWorld: Bringing up level for play took: 0.001379
+[2019.01.28-14.48.59:967][  8]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.01.28-14.48.59:967][  8]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.01.28-14.48.59:969][  8]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.28-14.48.59:969][  8]LogLoad: Took 0.122850 seconds to LoadMap(/Game/Maps/MainWorld)
+[2019.01.28-14.49.00:986][129]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.28-14.49.56:681][533]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.01.28-14.49.56:682][533]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.28-14.49.56:720][533]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.28-14.49.56:721][533]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.01.28-14.49.56:809][533]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.28-14.49.56:826][534]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2019.01.28-14.50.06:733][252]BlueprintLog: New page: Compile GameplayMenu
+[2019.01.28-14.50.08:960][447]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.28-14.50.08:980][447]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.01.28-14.50.08:981][447]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.28-14.50.08:981][447]PIE: New page: PIE session: MainMenu (28 янв. 2019 г., 20:50:08)
+[2019.01.28-14.50.08:981][447]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2019.01.28-14.50.08:984][447]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002335s)
+[2019.01.28-14.50.08:984][447]LogAIModule: Creating AISystem for world MainMenu
+[2019.01.28-14.50.08:984][447]LogPlayLevel: PIE: World Init took: (0.000715s)
+[2019.01.28-14.50.08:985][447]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.003495s)
+[2019.01.28-14.50.09:103][447]LogInit: XAudio2 using 'Наушники (Устройство с поддержкой High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.28-14.50.09:115][447]LogInit: FAudioDevice initialized.
+[2019.01.28-14.50.09:147][447]LogLoad: Game class is 'MainGameMode_C'
+[2019.01.28-14.50.09:148][447]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2019.01.28-17.50.09
+[2019.01.28-14.50.09:149][447]LogWorld: Bringing up level for play took: 0.000789
+[2019.01.28-14.50.09:163][447]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.28-14.50.09:163][447]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMenu -0,711
+[2019.01.28-14.50.09:164][447]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.01.28-14.50.09:998][546]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.28-14.50.10:092][557]LogNet: Browse: /Game/Maps/MainWorld
+[2019.01.28-14.50.10:093][557]LogLoad: LoadMap: /Game/Maps/MainWorld
+[2019.01.28-14.50.10:196][557]LogAIModule: Creating AISystem for world MainWorld
+[2019.01.28-14.50.10:197][557]LogLoad: Game class is 'MainGameMode_C'
+[2019.01.28-14.50.10:198][557]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainWorld.MainWorld up for play (max tick rate 0) at 2019.01.28-17.50.10
+[2019.01.28-14.50.10:199][557]LogWorld: Bringing up level for play took: 0.001413
+[2019.01.28-14.50.10:199][557]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.01.28-14.50.10:200][557]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.01.28-14.50.10:201][557]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.28-14.50.10:201][557]LogLoad: Took 0.108689 seconds to LoadMap(/Game/Maps/MainWorld)
+[2019.01.28-14.50.11:877][757]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.28-14.51.14:269][969]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave GPwave5...
+[2019.01.28-14.51.14:385][969]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 954088 while cooking SoundWave /Game/Sounds/Voice/GPwave5.GPwave5.
+[2019.01.28-14.51.23:560][ 68]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave GPwave6...
+[2019.01.28-14.51.23:754][ 68]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 1625764 while cooking SoundWave /Game/Sounds/Voice/GPwave6.GPwave6.
+[2019.01.28-14.51.36:865][640]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave GPwave7...
+[2019.01.28-14.51.36:946][640]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 653868 while cooking SoundWave /Game/Sounds/Voice/GPwave7.GPwave7.
+[2019.01.28-14.51.44:511][546]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave GPwave8...
+[2019.01.28-14.51.44:678][546]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 1396784 while cooking SoundWave /Game/Sounds/Voice/GPwave8.GPwave8.
+[2019.01.28-14.51.57:320][ 62]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave GPwave9...
+[2019.01.28-14.51.57:570][ 62]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 2117648 while cooking SoundWave /Game/Sounds/Voice/GPwave9.GPwave9.
+[2019.01.28-14.52.13:313][926]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave GPwave10...
+[2019.01.28-14.52.13:562][926]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 2119344 while cooking SoundWave /Game/Sounds/Voice/GPwave10.GPwave10.
+[2019.01.28-14.52.29:028][763]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave GPwave11...
+[2019.01.28-14.52.29:205][763]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 1490920 while cooking SoundWave /Game/Sounds/Voice/GPwave11.GPwave11.
+[2019.01.28-14.52.40:652][127]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave GPwave12...
+[2019.01.28-14.52.41:036][127]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 3257464 while cooking SoundWave /Game/Sounds/Voice/GPwave12.GPwave12.
+[2019.01.28-14.53.02:886][736]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave GPwave13...
+[2019.01.28-14.53.03:018][736]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 1088932 while cooking SoundWave /Game/Sounds/Voice/GPwave13.GPwave13.
+[2019.01.28-14.53.26:377][982]LogScript: Warning: Script Msg: Attempted to access index 13 from array 'GamePlayWavesArray' of length 13 in '/Game/Interface/GamePlayMenu.GameplayMenu_C'!
+[2019.01.28-14.53.26:378][982]LogScript: Warning: Script Msg: Attempted to access index 13 from array 'GamePlayWavesTimeArray' of length 13 in '/Game/Interface/GamePlayMenu.GameplayMenu_C'!
+[2019.01.28-14.53.31:217][310]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.01.28-14.53.31:218][310]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.28-14.53.31:255][310]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.28-14.53.31:255][310]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.01.28-14.53.31:344][310]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.28-14.53.31:369][311]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2019.01.28-14.54.19:482][735]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.28-14.54.19:503][735]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.01.28-14.54.19:503][735]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.28-14.54.19:503][735]PIE: New page: PIE session: MainMenu (28 янв. 2019 г., 20:54:19)
+[2019.01.28-14.54.19:503][735]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2019.01.28-14.54.19:506][735]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002311s)
+[2019.01.28-14.54.19:506][735]LogAIModule: Creating AISystem for world MainMenu
+[2019.01.28-14.54.19:506][735]LogPlayLevel: PIE: World Init took: (0.000770s)
+[2019.01.28-14.54.19:506][735]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.003531s)
+[2019.01.28-14.54.19:617][735]LogInit: XAudio2 using 'Наушники (Устройство с поддержкой High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.28-14.54.19:630][735]LogInit: FAudioDevice initialized.
+[2019.01.28-14.54.19:666][735]LogLoad: Game class is 'MainGameMode_C'
+[2019.01.28-14.54.19:666][735]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2019.01.28-17.54.19
+[2019.01.28-14.54.19:667][735]LogWorld: Bringing up level for play took: 0.000892
+[2019.01.28-14.54.19:681][735]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.28-14.54.19:681][735]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMenu -0,192
+[2019.01.28-14.54.19:682][735]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.01.28-14.54.21:226][918]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.28-14.54.21:310][928]LogNet: Browse: /Game/Maps/MainWorld
+[2019.01.28-14.54.21:310][928]LogLoad: LoadMap: /Game/Maps/MainWorld
+[2019.01.28-14.54.21:423][928]LogAIModule: Creating AISystem for world MainWorld
+[2019.01.28-14.54.21:423][928]LogLoad: Game class is 'MainGameMode_C'
+[2019.01.28-14.54.21:425][928]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainWorld.MainWorld up for play (max tick rate 0) at 2019.01.28-17.54.21
+[2019.01.28-14.54.21:425][928]LogWorld: Bringing up level for play took: 0.001238
+[2019.01.28-14.54.21:426][928]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.01.28-14.54.21:426][928]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.01.28-14.54.21:428][928]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.28-14.54.21:428][928]LogLoad: Took 0.117616 seconds to LoadMap(/Game/Maps/MainWorld)
+[2019.01.28-14.54.23:028][119]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.28-14.54.23:137][132]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.01.28-14.54.23:138][132]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.28-14.54.23:175][132]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.28-14.54.23:176][132]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.01.28-14.54.23:261][132]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.28-14.54.23:279][133]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2019.01.28-14.54.30:018][892]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.28-14.54.34:762][452]LogAIModule: Creating AISystem for world MainWorld
+[2019.01.28-14.54.34:766][452]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/MainWorld.MainWorld
+[2019.01.28-14.54.36:111][452]LogSlate: Window 'Save Content' being destroyed
+[2019.01.28-14.54.36:121][452]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interface/GamePlayMenu" FILE="C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Interface/GamePlayMenu.uasset" SILENT=true
+[2019.01.28-14.54.36:186][452]LogSavePackage: Moving 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/GamePlayMenu912D788C4F4482026E3F6F838D2C6665.tmp' to 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Interface/GamePlayMenu.uasset'
+[2019.01.28-14.54.36:189][452]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Voice/GPwave10" FILE="C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Sounds/Voice/GPwave10.uasset" SILENT=true
+[2019.01.28-14.54.36:195][452]LogSavePackage: Moving 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/GPwave10FBA6E3AC4CD8D5B2E234EAA5D65F606B.tmp' to 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Sounds/Voice/GPwave10.uasset'
+[2019.01.28-14.54.36:199][452]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Voice/GPwave11" FILE="C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Sounds/Voice/GPwave11.uasset" SILENT=true
+[2019.01.28-14.54.36:202][452]LogSavePackage: Moving 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/GPwave11918E63374EF2B1D2B13E5AB6E30A3FBE.tmp' to 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Sounds/Voice/GPwave11.uasset'
+[2019.01.28-14.54.36:206][452]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Voice/GPwave12" FILE="C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Sounds/Voice/GPwave12.uasset" SILENT=true
+[2019.01.28-14.54.36:211][452]LogSavePackage: Moving 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/GPwave1275B1E6FF4FC73C869D22509CB146108A.tmp' to 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Sounds/Voice/GPwave12.uasset'
+[2019.01.28-14.54.36:214][452]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Voice/GPwave13" FILE="C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Sounds/Voice/GPwave13.uasset" SILENT=true
+[2019.01.28-14.54.36:217][452]LogSavePackage: Moving 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/GPwave1358E3022742FC5492E145ABBFF5E6B8B2.tmp' to 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Sounds/Voice/GPwave13.uasset'
+[2019.01.28-14.54.36:220][452]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Voice/GPwave5" FILE="C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Sounds/Voice/GPwave5.uasset" SILENT=true
+[2019.01.28-14.54.36:223][452]LogSavePackage: Moving 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/GPwave55FDA7B2446020C3E47E8B7B859981E46.tmp' to 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Sounds/Voice/GPwave5.uasset'
+[2019.01.28-14.54.36:226][452]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Voice/GPwave6" FILE="C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Sounds/Voice/GPwave6.uasset" SILENT=true
+[2019.01.28-14.54.36:230][452]LogSavePackage: Moving 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/GPwave6272060D04CB30EADBBD84A87405887B9.tmp' to 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Sounds/Voice/GPwave6.uasset'
+[2019.01.28-14.54.36:233][452]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Voice/GPwave7" FILE="C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Sounds/Voice/GPwave7.uasset" SILENT=true
+[2019.01.28-14.54.36:236][452]LogSavePackage: Moving 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/GPwave79C9D6E7A459C36047AC719B499D1E5E6.tmp' to 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Sounds/Voice/GPwave7.uasset'
+[2019.01.28-14.54.36:239][452]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Voice/GPwave8" FILE="C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Sounds/Voice/GPwave8.uasset" SILENT=true
+[2019.01.28-14.54.36:243][452]LogSavePackage: Moving 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/GPwave895BFB5A44B07C862CB653787470E4C6A.tmp' to 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Sounds/Voice/GPwave8.uasset'
+[2019.01.28-14.54.36:246][452]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Voice/GPwave9" FILE="C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Sounds/Voice/GPwave9.uasset" SILENT=true
+[2019.01.28-14.54.36:250][452]LogSavePackage: Moving 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/GPwave96912A6934029689CA517778FCA99E541.tmp' to 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Sounds/Voice/GPwave9.uasset'
+[2019.01.28-14.54.36:264][452]Cmd: MAP LOAD FILE="C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Maps/MainWorld.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.28-14.54.36:264][452]LightingResults: New page: Lighting Build
+[2019.01.28-14.54.36:265][452]LoadErrors: New page: Loading map: MainWorld.umap
+[2019.01.28-14.54.36:275][452]MapCheck: New page: Map Check
+[2019.01.28-14.54.36:275][452]LightingResults: New page: Lighting Build
+[2019.01.28-14.54.36:497][452]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.28-14.54.36:627][452]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.28-14.54.36:627][452]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,15ms to complete.
+[2019.01.28-14.54.36:627][452]LogFileHelpers: Loading map 'MainWorld' took 0.375
+[2019.01.28-14.54.39:026][691]LogEditorViewport: Clicking Background
+[2019.01.28-14.54.39:626][761]LogEditorViewport: Clicking on Actor (LMB): MainCharacter_C (MainCharacter)
+[2019.01.28-14.54.41:682][896]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.28-14.55.07:949][845]BlueprintLog: New page: Compile GameplayMenu
+[2019.01.28-14.55.10:325][ 35]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.28-14.55.10:348][ 35]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainWorld.MainWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainWorld.MainWorld:PersistentLevel.MainWorld' with GeneratedClass '/Game/Maps/MainWorld.MainWorld_C' with ClassGeneratedBy '/Game/Maps/MainWorld.MainWorld:PersistentLevel.MainWorld'
+[2019.01.28-14.55.10:349][ 35]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.28-14.55.10:349][ 35]PIE: New page: PIE session: MainWorld (28 янв. 2019 г., 20:55:10)
+[2019.01.28-14.55.10:349][ 35]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainWorld
+[2019.01.28-14.55.10:351][ 35]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002021s)
+[2019.01.28-14.55.10:353][ 35]LogAIModule: Creating AISystem for world MainWorld
+[2019.01.28-14.55.10:353][ 35]LogPlayLevel: PIE: World Init took: (0.001338s)
+[2019.01.28-14.55.10:353][ 35]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainWorld.MainWorld to /Game/Maps/UEDPIE_0_MainWorld.MainWorld (0.003984s)
+[2019.01.28-14.55.10:457][ 35]LogInit: XAudio2 using 'Наушники (Устройство с поддержкой High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.28-14.55.10:469][ 35]LogInit: FAudioDevice initialized.
+[2019.01.28-14.55.10:504][ 35]LogLoad: Game class is 'MainGameMode_C'
+[2019.01.28-14.55.10:505][ 35]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainWorld.MainWorld up for play (max tick rate 0) at 2019.01.28-17.55.10
+[2019.01.28-14.55.10:505][ 35]LogWorld: Bringing up level for play took: 0.000840
+[2019.01.28-14.55.10:517][ 35]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.01.28-14.55.10:519][ 35]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.28-14.55.10:519][ 35]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainWorld 0,645
+[2019.01.28-14.55.10:520][ 35]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainWorld.MainWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainWorld.MainWorld:PersistentLevel.MainWorld' with GeneratedClass '/Game/Maps/MainWorld.MainWorld_C' with ClassGeneratedBy '/Game/Maps/MainWorld.MainWorld:PersistentLevel.MainWorld'
+[2019.01.28-14.55.12:180][133]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.28-14.55.16:173][612]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainWorld.MainWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainWorld.MainWorld:PersistentLevel.MainWorld' with GeneratedClass '/Game/Maps/MainWorld.MainWorld_C' with ClassGeneratedBy '/Game/Maps/MainWorld.MainWorld:PersistentLevel.MainWorld'
+[2019.01.28-14.55.16:174][612]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.28-14.55.16:212][612]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.28-14.55.16:213][612]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainWorld.MainWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainWorld.MainWorld:PersistentLevel.MainWorld' with GeneratedClass '/Game/Maps/MainWorld.MainWorld_C' with ClassGeneratedBy '/Game/Maps/MainWorld.MainWorld:PersistentLevel.MainWorld'
+[2019.01.28-14.55.16:305][612]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.28-14.55.16:320][613]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2019.01.28-14.55.38:853][341]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.28-14.55.38:854][341]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.28-14.58.53:023][358]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.28-14.58.53:023][358]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.28-14.59.03:628][435]LogEditorViewport: Clicking Background
+[2019.01.28-14.59.04:418][528]LogEditorViewport: Clicking Background
+[2019.01.28-14.59.05:933][707]LogEditorViewport: Clicking Background
+[2019.01.28-14.59.08:291][962]LogEditorViewport: Clicking on Actor (LMB): MainCharacter_C (MainCharacter)
+[2019.01.28-14.59.10:075][118]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.28-14.59.11:289][262]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.28-14.59.11:292][262]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MainCharacter.MainCharacter
+[2019.01.28-14.59.24:198][285]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.28-14.59.24:199][285]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.28-15.00.37:361][414]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.28-15.00.37:361][414]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.28-15.00.55:749][901]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.28-15.00.55:749][901]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.28-15.02.22:247][703]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.28-15.02.22:247][703]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.28-15.02.24:312][864]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.28-15.02.24:312][864]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.28-15.05.06:826][998]BlueprintLog: New page: Compile GameplayMenu
+[2019.01.28-15.05.10:332][229]BlueprintLog: New page: Compile GameplayMenu
+[2019.01.28-15.05.12:479][419]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.28-15.05.12:612][435]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.28-15.05.12:634][435]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainWorld.MainWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainWorld.MainWorld:PersistentLevel.MainWorld' with GeneratedClass '/Game/Maps/MainWorld.MainWorld_C' with ClassGeneratedBy '/Game/Maps/MainWorld.MainWorld:PersistentLevel.MainWorld'
+[2019.01.28-15.05.12:635][435]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.01.28-15.05.12:636][435]LogPlayLevel: [PlayLevel] Compiling MainCharacter before play...
+[2019.01.28-15.05.13:015][435]LogPlayLevel: PlayLevel: Blueprint regeneration took 380 ms (1 blueprints)
+[2019.01.28-15.05.13:015][435]PIE: New page: PIE session: MainWorld (28 янв. 2019 г., 21:05:13)
+[2019.01.28-15.05.13:016][435]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainWorld
+[2019.01.28-15.05.13:018][435]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002057s)
+[2019.01.28-15.05.13:018][435]LogAIModule: Creating AISystem for world MainWorld
+[2019.01.28-15.05.13:019][435]LogPlayLevel: PIE: World Init took: (0.000851s)
+[2019.01.28-15.05.13:019][435]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainWorld.MainWorld to /Game/Maps/UEDPIE_0_MainWorld.MainWorld (0.003349s)
+[2019.01.28-15.05.13:127][435]LogInit: XAudio2 using 'Наушники (Устройство с поддержкой High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.28-15.05.13:140][435]LogInit: FAudioDevice initialized.
+[2019.01.28-15.05.13:170][435]LogLoad: Game class is 'MainGameMode_C'
+[2019.01.28-15.05.13:172][435]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainWorld.MainWorld up for play (max tick rate 0) at 2019.01.28-18.05.13
+[2019.01.28-15.05.13:172][435]LogWorld: Bringing up level for play took: 0.000972
+[2019.01.28-15.05.13:184][435]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.01.28-15.05.13:186][435]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.28-15.05.13:186][435]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainWorld 1,312
+[2019.01.28-15.05.13:186][435]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainWorld.MainWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainWorld.MainWorld:PersistentLevel.MainWorld' with GeneratedClass '/Game/Maps/MainWorld.MainWorld_C' with ClassGeneratedBy '/Game/Maps/MainWorld.MainWorld:PersistentLevel.MainWorld'
+[2019.01.28-15.05.14:398][572]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.28-15.05.37:825][308]LogBlueprintUserMessages: [GameplayMenu_C_0] Hello
+[2019.01.28-15.05.40:922][679]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainWorld.MainWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainWorld.MainWorld:PersistentLevel.MainWorld' with GeneratedClass '/Game/Maps/MainWorld.MainWorld_C' with ClassGeneratedBy '/Game/Maps/MainWorld.MainWorld:PersistentLevel.MainWorld'
+[2019.01.28-15.05.40:923][679]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.28-15.05.40:957][679]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.28-15.05.40:958][679]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainWorld.MainWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainWorld.MainWorld:PersistentLevel.MainWorld' with GeneratedClass '/Game/Maps/MainWorld.MainWorld_C' with ClassGeneratedBy '/Game/Maps/MainWorld.MainWorld:PersistentLevel.MainWorld'
+[2019.01.28-15.05.41:054][679]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.28-15.05.41:075][680]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2019.01.28-15.06.08:388][ 44]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainWorld" FILE="C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/Autosaves/Game/Maps/MainWorld_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.01.28-15.06.08:629][ 44]LogSavePackage: Moving 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/MainWorld_Auto4CF11CB5F41178164306498A66E325E88.tmp' to 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/Autosaves/Game/Maps/MainWorld_Auto4.umap'
+[2019.01.28-15.06.08:653][ 44]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MainWorld' took 0.354
+[2019.01.28-15.06.08:653][ 44]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.354
+[2019.01.28-15.06.08:655][ 44]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MainCharacter] ([1] browsable assets)...
+[2019.01.28-15.06.08:655][ 44]OBJ SavePackage: Finished generating thumbnails for package [/Game/MainCharacter]
+[2019.01.28-15.06.08:655][ 44]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainCharacter" FILE="C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/Autosaves/Game/MainCharacter_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2019.01.28-15.06.08:683][ 44]LogSavePackage: Moving 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/MainCharacter_Auto4A6E85E384CFFE4654DBB6CA8A5CCF39C.tmp' to 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/Autosaves/Game/MainCharacter_Auto4.uasset'
+[2019.01.28-15.06.08:686][ 44]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Interface/GamePlayMenu] ([1] browsable assets)...
+[2019.01.28-15.06.08:687][ 44]OBJ SavePackage: Finished generating thumbnails for package [/Game/Interface/GamePlayMenu]
+[2019.01.28-15.06.08:748][ 44]LogSavePackage: Moving 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/GamePlayMenu_Auto4A056756A4E219BC5A92D7DA5B2C7249D.tmp' to 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/Autosaves/Game/Interface/GamePlayMenu_Auto4.uasset'
+[2019.01.28-15.06.08:750][ 44]LogFileHelpers: Auto-saving content packages took 0.097
+[2019.01.28-15.26.45:765][271]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.28-15.28.15:572][502]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MainWorld' took 0.085
+[2019.01.28-15.28.15:574][502]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Interface/GamePlayMenu] ([1] browsable assets)...
+[2019.01.28-15.28.15:574][502]OBJ SavePackage: Finished generating thumbnails for package [/Game/Interface/GamePlayMenu]
+[2019.01.28-15.28.15:782][502]LogSavePackage: Moving 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/GamePlayMenu_Auto58BB447D346BAE5EC819C2E97204D48C4.tmp' to 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/Autosaves/Game/Interface/GamePlayMenu_Auto5.uasset'
+[2019.01.28-15.28.15:785][502]LogFileHelpers: Auto-saving content packages took 0.212
+[2019.01.28-19.54.50:154][229]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.28-19.54.50:157][229]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.28-19.54.52:872][530]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.28-19.54.53:956][639]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.28-19.54.54:649][639]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainWorld" FILE="C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Maps/MainWorld.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.01.28-19.54.55:038][639]LogSavePackage: Moving 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/MainWorld8043B7CE43D2FA66F4FB1D8BF07ED8A6.tmp' to 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Maps/MainWorld.umap'
+[2019.01.28-19.54.55:091][639]LogFileHelpers: Saving map 'MainWorld' took 0.445
+[2019.01.28-19.54.55:094][639]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainCharacter" FILE="C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/MainCharacter.uasset" SILENT=true
+[2019.01.28-19.54.55:122][639]LogSavePackage: Moving 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/MainCharacterF1CEDA2E49400FE6088DC69489218C89.tmp' to 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/MainCharacter.uasset'
+[2019.01.28-19.54.55:128][639]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interface/GamePlayMenu" FILE="C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Interface/GamePlayMenu.uasset" SILENT=true
+[2019.01.28-19.54.55:193][639]LogSavePackage: Moving 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/GamePlayMenu846763A5433EB85D3F75F18AAC7C84A2.tmp' to 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Interface/GamePlayMenu.uasset'
+[2019.01.28-19.54.56:048][717]LogSlate: FSceneViewport::OnFocusLost() reason 0

@@ -1,0 +1,823 @@
+﻿Log file open, 01/29/19 14:33:59
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: BP_like_away_v_0_4
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 7.678560
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +3:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.185s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: AMD FX(tm)-9370 Eight-Core Processor           , GPU: NVIDIA GeForce GTX 970
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: D:/UE4/UE4 catalog/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.003s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.01.29-11.34.02:653][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.01.29-11.34.02:653][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.01.29-11.34.02:654][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/Config/Windows/Engine.ini]
+[2019.01.29-11.34.02:654][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.01.29-11.34.02:654][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/Config/Windows/Engine.ini]
+[2019.01.29-11.34.02:654][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/Config/Windows/Engine.ini]
+[2019.01.29-11.34.02:654][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.01.29-11.34.02:654][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.01.29-11.34.02:654][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.01.29-11.34.02:654][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.01.29-11.34.02:654][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.01.29-11.34.02:654][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.01.29-11.34.02:654][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.01.29-11.34.02:654][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.01.29-11.34.02:654][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.01.29-11.34.02:654][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.01.29-11.34.02:654][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.01.29-11.34.02:654][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.01.29-11.34.02:654][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.01.29-11.34.02:654][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/Config/Windows/Engine.ini]
+[2019.01.29-11.34.02:654][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.01.29-11.34.02:654][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.01.29-11.34.02:654][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.01.29-11.34.02:654][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.01.29-11.34.02:654][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.01.29-11.34.02:654][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.01.29-11.34.02:654][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.01.29-11.34.02:654][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.01.29-11.34.02:654][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.01.29-11.34.02:654][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.01.29-11.34.02:654][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.01.29-11.34.02:654][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.01.29-11.34.02:654][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.01.29-11.34.02:654][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.01.29-11.34.02:654][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/Config/Windows/Engine.ini]
+[2019.01.29-11.34.02:654][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/Config/Windows/Engine.ini]
+[2019.01.29-11.34.02:781][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/Config/Windows/Scalability.ini]
+[2019.01.29-11.34.02:781][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.01.29-11.34.02:781][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.01.29-11.34.02:781][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/Config/Windows/Scalability.ini]
+[2019.01.29-11.34.02:781][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.01.29-11.34.02:781][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/Config/Windows/Scalability.ini]
+[2019.01.29-11.34.02:781][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.01.29-11.34.02:781][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.01.29-11.34.02:781][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.01.29-11.34.02:781][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.01.29-11.34.02:781][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.01.29-11.34.02:781][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.01.29-11.34.02:781][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.01.29-11.34.02:781][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.01.29-11.34.02:781][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.01.29-11.34.02:781][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.01.29-11.34.02:781][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.01.29-11.34.02:781][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.01.29-11.34.02:781][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.01.29-11.34.02:781][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.01.29-11.34.02:781][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.01.29-11.34.02:781][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.01.29-11.34.02:781][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.01.29-11.34.02:781][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.01.29-11.34.02:781][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/Config/Windows/Scalability.ini]
+[2019.01.29-11.34.02:782][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.01.29-11.34.02:782][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.01.29-11.34.02:782][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.01.29-11.34.02:782][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.01.29-11.34.02:782][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.01.29-11.34.02:782][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.01.29-11.34.02:782][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.01.29-11.34.02:782][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.01.29-11.34.02:782][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.01.29-11.34.02:782][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.01.29-11.34.02:782][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.01.29-11.34.02:782][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.01.29-11.34.02:782][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.01.29-11.34.02:782][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.01.29-11.34.02:782][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.01.29-11.34.02:782][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.01.29-11.34.02:782][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.01.29-11.34.02:782][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.01.29-11.34.02:782][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.01.29-11.34.02:782][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.01.29-11.34.02:782][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.01.29-11.34.02:782][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.01.29-11.34.02:782][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.01.29-11.34.02:782][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.01.29-11.34.02:782][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.01.29-11.34.02:782][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.01.29-11.34.02:782][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.01.29-11.34.02:782][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.01.29-11.34.02:782][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.01.29-11.34.02:782][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.01.29-11.34.02:782][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/Config/Windows/Scalability.ini]
+[2019.01.29-11.34.02:782][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.01.29-11.34.02:782][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.01.29-11.34.02:782][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.01.29-11.34.02:782][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.01.29-11.34.02:782][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.01.29-11.34.02:782][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.01.29-11.34.02:782][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.01.29-11.34.02:782][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.01.29-11.34.02:782][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/Config/Windows/Scalability.ini]
+[2019.01.29-11.34.02:782][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.01.29-11.34.02:782][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.01.29-11.34.02:782][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.01.29-11.34.02:782][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.01.29-11.34.02:782][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.01.29-11.34.02:782][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.01.29-11.34.02:782][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.01.29-11.34.02:782][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.01.29-11.34.02:782][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.01.29-11.34.02:782][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.01.29-11.34.02:782][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.01.29-11.34.02:782][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.01.29-11.34.02:782][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.01.29-11.34.02:782][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/Config/Windows/Scalability.ini]
+[2019.01.29-11.34.02:782][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.01.29-11.34.02:782][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.01.29-11.34.02:834][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.29-11.34.02:834][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.01.29-11.34.02:873][  0]LogHAL: Display: Platform has ~ 16 GB [17074769920 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.01.29-11.34.02:880][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.01.29-11.34.02:880][  0]LogInit: Going up to parent DeviceProfile []
+[2019.01.29-11.34.02:880][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/Config/Windows/Scalability.ini]
+[2019.01.29-11.34.02:880][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.01.29-11.34.02:880][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.01.29-11.34.02:880][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/Config/Windows/Scalability.ini]
+[2019.01.29-11.34.02:880][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.01.29-11.34.02:880][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/Config/Windows/Scalability.ini]
+[2019.01.29-11.34.02:880][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.01.29-11.34.02:880][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.01.29-11.34.02:880][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.01.29-11.34.02:880][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.01.29-11.34.02:880][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.01.29-11.34.02:880][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.01.29-11.34.02:880][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.01.29-11.34.02:880][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.01.29-11.34.02:880][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.01.29-11.34.02:880][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.01.29-11.34.02:880][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.01.29-11.34.02:880][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.01.29-11.34.02:880][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.01.29-11.34.02:880][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.01.29-11.34.02:880][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.01.29-11.34.02:880][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.01.29-11.34.02:880][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.01.29-11.34.02:880][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.01.29-11.34.02:880][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/Config/Windows/Scalability.ini]
+[2019.01.29-11.34.02:880][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.01.29-11.34.02:880][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.01.29-11.34.02:880][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.01.29-11.34.02:880][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.01.29-11.34.02:880][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.01.29-11.34.02:880][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.01.29-11.34.02:880][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.01.29-11.34.02:880][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.01.29-11.34.02:880][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.01.29-11.34.02:880][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.01.29-11.34.02:880][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.01.29-11.34.02:880][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.01.29-11.34.02:880][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.01.29-11.34.02:881][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.01.29-11.34.02:881][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.01.29-11.34.02:881][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.01.29-11.34.02:881][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.01.29-11.34.02:881][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.01.29-11.34.02:881][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.01.29-11.34.02:881][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.01.29-11.34.02:881][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.01.29-11.34.02:881][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.01.29-11.34.02:881][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.01.29-11.34.02:881][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.01.29-11.34.02:881][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.01.29-11.34.02:881][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.01.29-11.34.02:881][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.01.29-11.34.02:881][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.01.29-11.34.02:881][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.01.29-11.34.02:881][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.01.29-11.34.02:881][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/Config/Windows/Scalability.ini]
+[2019.01.29-11.34.02:881][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.01.29-11.34.02:881][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.01.29-11.34.02:881][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.01.29-11.34.02:881][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.01.29-11.34.02:881][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.01.29-11.34.02:881][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.01.29-11.34.02:881][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.01.29-11.34.02:881][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.01.29-11.34.02:881][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/Config/Windows/Scalability.ini]
+[2019.01.29-11.34.02:881][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.01.29-11.34.02:881][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.01.29-11.34.02:881][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.01.29-11.34.02:881][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.01.29-11.34.02:881][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.01.29-11.34.02:881][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.01.29-11.34.02:881][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.01.29-11.34.02:881][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.01.29-11.34.02:881][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.01.29-11.34.02:881][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.01.29-11.34.02:881][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.01.29-11.34.02:881][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.01.29-11.34.02:881][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.01.29-11.34.02:881][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/Config/Windows/Scalability.ini]
+[2019.01.29-11.34.02:881][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.01.29-11.34.02:881][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.01.29-11.34.02:881][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.01.29-11.34.02:909][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.01.29-11.34.02:909][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/Config/Windows/Engine.ini]
+[2019.01.29-11.34.02:942][  0]LogInit: Computer: DESKTOP-4EG7N1S
+[2019.01.29-11.34.02:942][  0]LogInit: User: happy
+[2019.01.29-11.34.02:942][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.01.29-11.34.02:942][  0]LogInit: High frequency timer resolution =4.311318 MHz
+[2019.01.29-11.34.02:942][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.01.29-11.34.02:943][  0]LogMemory: Platform Memory Stats for Windows
+[2019.01.29-11.34.02:943][  0]LogMemory: Process Physical Memory: 103.85 MB used, 103.85 MB peak
+[2019.01.29-11.34.02:943][  0]LogMemory: Process Virtual Memory: 90.09 MB used, 90.09 MB peak
+[2019.01.29-11.34.02:943][  0]LogMemory: Physical Memory: 8001.88 MB used,  8281.89 MB free, 16283.77 MB total
+[2019.01.29-11.34.02:943][  0]LogMemory: Virtual Memory: 4637.07 MB used,  134213088.00 MB free, 134217728.00 MB total
+[2019.01.29-11.34.03:725][  0]LogInit: Using OS detected language (ru-RU).
+[2019.01.29-11.34.03:725][  0]LogInit: Using OS detected locale (ru-RU).
+[2019.01.29-11.34.03:768][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so the 'ru' localization will be used.
+[2019.01.29-11.34.03:919][  0]LogStreaming: Display: Took  0.172s to InitEngineTextLocalization.
+[2019.01.29-11.34.03:944][  0]LogInit: Setting process to per monitor DPI aware
+[2019.01.29-11.34.04:696][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.01.29-11.34.04:696][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.01.29-11.34.06:234][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.01.29-11.34.06:234][  0]LogD3D11RHI: D3D11 adapters:
+[2019.01.29-11.34.06:298][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970' (Feature Level 11_0)
+[2019.01.29-11.34.06:298][  0]LogD3D11RHI:       4043/0/8141 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.01.29-11.34.06:300][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.01.29-11.34.06:300][  0]LogD3D11RHI:       0/0/8141 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.01.29-11.34.06:300][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.01.29-11.34.06:311][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.01.29-11.34.06:311][  0]LogD3D11RHI:     GPU DeviceId: 0x13c2 (for the marketing name, search the web for "GPU Device Id")
+[2019.01.29-11.34.06:311][  0]LogWindows: EnumDisplayDevices:
+[2019.01.29-11.34.06:312][  0]LogWindows:    0. 'NVIDIA GeForce GTX 970' (P:1 D:1)
+[2019.01.29-11.34.06:312][  0]LogWindows:    1. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2019.01.29-11.34.06:312][  0]LogWindows:    2. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2019.01.29-11.34.06:313][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2019.01.29-11.34.06:313][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.01.29-11.34.06:314][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970
+[2019.01.29-11.34.06:314][  0]LogD3D11RHI:   Driver Version: 391.01 (internal:23.21.13.9101, unified:391.01)
+[2019.01.29-11.34.06:314][  0]LogD3D11RHI:      Driver Date: 2-23-2018
+[2019.01.29-11.34.06:314][  0]LogRHI: Texture pool is 2830 MB (70% of 4043 MB)
+[2019.01.29-11.34.06:391][  0]LogD3D11RHI: Async texture creation enabled
+[2019.01.29-11.34.06:710][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.01.29-11.34.07:823][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.01.29-11.34.07:885][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.01.29-11.34.07:920][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.01.29-11.34.07:938][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.01.29-11.34.07:991][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.01.29-11.34.08:037][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.01.29-11.34.08:079][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.01.29-11.34.08:100][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.01.29-11.34.08:112][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.01.29-11.34.08:268][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.29-11.34.08:268][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.29-11.34.08:269][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.29-11.34.08:269][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.29-11.34.08:269][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.29-11.34.08:269][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.29-11.34.08:269][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.29-11.34.08:269][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.29-11.34.08:269][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.29-11.34.08:269][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.29-11.34.08:269][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.29-11.34.08:269][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.29-11.34.08:269][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.29-11.34.08:269][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.29-11.34.08:269][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.29-11.34.08:269][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.29-11.34.08:269][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.29-11.34.08:269][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.29-11.34.08:308][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.01.29-11.34.08:419][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.01.29-11.34.08:419][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.01.29-11.34.08:482][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.01.29-11.34.08:482][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.01.29-11.34.08:508][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.01.29-11.34.08:525][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.01.29-11.34.08:543][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.01.29-11.34.08:563][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.01.29-11.34.08:674][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.01.29-11.34.08:674][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.01.29-11.34.08:675][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.01.29-11.34.09:360][  0]LogShaderCompilers: Guid format shader working directory is -8 characters bigger than the processId version (C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Intermediate/Shaders/WorkingDirectory/15468/).
+[2019.01.29-11.34.09:361][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/happy/AppData/Local/Temp/UnrealShaderWorkingDir/437C6679493EE3E56E51FD90C87CDD0D/'.
+[2019.01.29-11.34.09:417][  0]LogXGEController: Cleaning working directory: C:/Users/happy/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.01.29-11.34.09:417][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.01.29-11.34.09:417][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.01.29-11.34.09:417][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.01.29-11.34.11:985][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.01.29-11.34.12:195][  0]LogDerivedDataCache: Loaded boot cache 0.21s 71MB C:/Users/happy/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.01.29-11.34.12:195][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/happy/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.01.29-11.34.12:196][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.01.29-11.34.12:196][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.01.29-11.34.12:196][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.01.29-11.34.12:196][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.01.29-11.34.12:249][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.01.29-11.34.12:249][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.01.29-11.34.12:249][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.01.29-11.34.12:269][  0]LogDerivedDataCache: Using Local data cache path C:/Users/happy/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.01.29-11.34.12:269][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.01.29-11.34.12:269][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.01.29-11.34.12:328][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.01.29-11.34.12:404][  0]LogSlate: Using FreeType 2.6.0
+[2019.01.29-11.34.12:553][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.01.29-11.34.13:327][  0]LogAssetRegistry: FAssetRegistry took 0.0399 seconds to start up
+[2019.01.29-11.34.18:855][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.29-11.34.20:681][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.01.29-11.34.20:925][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.01.29-11.34.20:926][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.01.29-11.34.20:926][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.01.29-11.34.20:926][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.01.29-11.34.21:355][  0]LogNetVersion: BP_like_away_v_0_4 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 612912654)
+[2019.01.29-11.34.26:544][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.122882 seconds
+[2019.01.29-11.34.26:575][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.01.29-11.34.26:575][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2019.01.29-11.34.26:575][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.01.29-11.34.37:133][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.01.29-11.34.37:171][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.01.29-11.34.39:608][  0]SourceControl: Source control is disabled
+[2019.01.29-11.34.39:608][  0]SourceControl: Source control is disabled
+[2019.01.29-11.34.39:772][  0]SourceControl: Source control is disabled
+[2019.01.29-11.34.39:788][  0]SourceControl: Source control is disabled
+[2019.01.29-11.34.41:572][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.01.29-11.34.41:890][  0]LogOcInput: OculusInput pre-init called
+[2019.01.29-11.34.43:086][  0]LogEngine: Initializing Engine...
+[2019.01.29-11.34.43:144][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.01.29-11.34.43:159][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.011 s
+[2019.01.29-11.34.43:159][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.29-11.34.43:159][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.01.29-11.34.43:159][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.29-11.34.44:069][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.01.29-11.34.44:744][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.01.29-11.34.44:939][  0]LogInit: XAudio2 using 'Наушники (Устройство с поддержкой High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.29-11.34.44:967][  0]LogInit: FAudioDevice initialized.
+[2019.01.29-11.34.44:967][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.01.29-11.34.45:085][  0]LogDerivedDataCache: Saved boot cache 0.12s 71MB C:/Users/happy/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.01.29-11.34.45:097][  0]LogInit: Texture streaming: Enabled
+[2019.01.29-11.34.45:198][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.01.29-11.34.45:198][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=AbnormalShutdown, SessionId={874EB659-4900-D8A5-F299-0EB7F675BB7C}
+[2019.01.29-11.34.45:345][  0]LogInit: Transaction tracking system initialized
+[2019.01.29-11.34.45:758][  0]BlueprintLog: New page: Editor Load
+[2019.01.29-11.34.47:277][  0]LocalizationService: Localization service is disabled
+[2019.01.29-11.34.51:201][  0]LogFileCache: Scanning file cache for directory 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/' took 0.02s
+[2019.01.29-11.34.51:201][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.01.29-11.34.51:201][  0]LogCook: Display: Mobile HDR setting 1
+[2019.01.29-11.34.51:201][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.01.29-11.34.51:201][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.01.29-11.34.51:201][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.29-11.34.51:201][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.01.29-11.34.51:201][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.29-11.34.53:794][  0]SourceControl: Source control is disabled
+[2019.01.29-11.34.53:835][  0]Cmd: MAP LOAD FILE="C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.29-11.34.53:855][  0]LightingResults: New page: Lighting Build
+[2019.01.29-11.34.54:094][  0]MapCheck: New page: Map Check
+[2019.01.29-11.34.54:095][  0]LightingResults: New page: Lighting Build
+[2019.01.29-11.34.55:220][  0]LogAIModule: Creating AISystem for world MainMenu
+[2019.01.29-11.34.55:561][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.29-11.34.55:780][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.29-11.34.55:781][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,223ms to complete.
+[2019.01.29-11.34.55:781][  0]LogFileHelpers: Loading map 'MainMenu' took 1.981
+[2019.01.29-11.34.57:225][  0]LogCollectionManager: Loaded 0 collections in 0.001882 seconds
+[2019.01.29-11.34.57:379][  0]LogFileCache: Scanning file cache for directory 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/Collections/' took 0.01s
+[2019.01.29-11.34.57:379][  0]LogFileCache: Scanning file cache for directory 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Developers/happy/Collections/' took 0.01s
+[2019.01.29-11.34.57:379][  0]LogFileCache: Scanning file cache for directory 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Collections/' took 0.01s
+[2019.01.29-11.34.57:379][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.01.29-11.34.57:395][  0]LogContentBrowser: Native class hierarchy populated in 0.0152 seconds. Added 2651 classes and 620 folders.
+[2019.01.29-11.34.57:471][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.01.29-11.34.57:536][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.29-11.34.57:581][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.29-11.34.57:593][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.29-11.34.57:619][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.29-11.34.57:633][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.29-11.34.57:639][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.29-11.34.57:644][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.29-11.34.57:671][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.29-11.34.57:690][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.29-11.34.57:717][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.29-11.34.57:729][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.29-11.34.57:742][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.29-11.34.57:770][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.29-11.34.57:789][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.29-11.34.57:836][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.29-11.34.57:857][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.29-11.34.57:872][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.29-11.34.57:892][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.29-11.34.57:907][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.29-11.34.57:922][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.29-11.34.57:944][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.29-11.34.57:961][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.29-11.34.57:988][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.29-11.34.58:015][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.29-11.34.58:030][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.29-11.34.58:053][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.29-11.34.59:075][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.01.29-11.34.59:444][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.29-11.34.59:458][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.29-11.34.59:466][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.29-11.34.59:475][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.29-11.34.59:578][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.01.29-11.35.01:040][  0]LogSlate: Took 0.012964 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.01.29-11.35.01:064][  0]LogSlate: Took 0.021873 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.01.29-11.35.01:081][  0]LogSlate: Took 0.015245 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.01.29-11.35.01:179][  0]LogSlate: Took 0.014236 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2019.01.29-11.35.01:349][  0]LogSlate: Took 0.016853 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.01.29-11.35.01:675][  0]LogRenderer: Reallocating scene render targets to support 1060x568 Format 10 NumSamples 1 (Frame:1).
+[2019.01.29-11.35.02:264][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.01.29-11.35.02:265][  0]LogLoad: (Engine Initialization) Total time: 78.64 seconds
+[2019.01.29-11.35.02:265][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.01.29-11.35.02:456][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.01.29-11.35.02:642][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/' took 0.29s
+[2019.01.29-11.35.02:661][  1]LogAssetRegistry: Asset discovery search completed in 49.3572 seconds
+[2019.01.29-11.35.02:663][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.01.29-11.35.02:664][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000238 seconds (updated 0 objects)
+[2019.01.29-11.35.03:312][ 34]LogSlate: Took 0.000308 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.01.29-11.35.05:202][251]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.29-11.35.05:356][261]LogAssetEditorManager: Opening Asset editor for DialogueWave /Game/Sounds/Media/GameplayVoice13.GameplayVoice13
+[2019.01.29-11.35.05:859][261]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Interface/GamePlayMenu.GameplayMenu
+[2019.01.29-11.35.07:168][261]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 117 classes and 0 folders.
+[2019.01.29-11.35.09:244][261]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MainCharacter.MainCharacter
+[2019.01.29-11.35.10:299][261]LogSlate: Took 0.013767 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.01.29-11.35.19:054][884]LogSlate: Took 0.011548 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.01.29-11.35.26:738][426]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.29-11.35.26:738][426]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.29-11.45.02:618][605]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MainMenu' took 0.108
+[2019.01.29-11.45.02:622][605]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Interface/GamePlayMenu] ([1] browsable assets)...
+[2019.01.29-11.45.02:622][605]OBJ SavePackage: Finished generating thumbnails for package [/Game/Interface/GamePlayMenu]
+[2019.01.29-11.45.03:040][605]LogSavePackage: Moving 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/GamePlayMenu_Auto17B69EB5E4DCAFFF4ED4004901FB1DCAF.tmp' to 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/Autosaves/Game/Interface/GamePlayMenu_Auto1.uasset'
+[2019.01.29-11.45.03:075][605]LogFileHelpers: Auto-saving content packages took 0.455
+[2019.01.29-17.17.20:960][236]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.29-17.17.20:961][236]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.29-17.17.27:438][756]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.29-17.17.36:550][492]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.29-17.17.37:948][647]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Interface/GamePlayMenu.GameplayMenu
+[2019.01.29-17.17.52:071][ 80]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu
+[2019.01.29-17.18.38:509][951]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.29-17.18.38:509][951]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.29-17.18.59:109][758]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu
+[2019.01.29-17.20.33:711][692]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Captions.Captions
+[2019.01.29-17.20.35:768][692]LogSlate: Window 'Save Content' being destroyed
+[2019.01.29-17.20.35:897][692]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interface/captions" FILE="C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Interface/captions.uasset" SILENT=true
+[2019.01.29-17.20.35:914][692]LogSavePackage: Moving 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/captionsD918863B49A59DAB933EFBA2D68E5AB1.tmp' to 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Interface/captions.uasset'
+[2019.01.29-17.20.35:925][692]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interface/GamePlayMenu" FILE="C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Interface/GamePlayMenu.uasset" SILENT=true
+[2019.01.29-17.20.35:999][692]LogSavePackage: Moving 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/GamePlayMenu6D9D4E5540C4F213F943F09E9396E1A8.tmp' to 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Interface/GamePlayMenu.uasset'
+[2019.01.29-17.20.36:002][692]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Captions" FILE="C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Maps/Captions.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.01.29-17.20.36:190][692]LogSavePackage: Moving 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/Captions58BC652341DA706E114DF184B1CCD778.tmp' to 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Maps/Captions.umap'
+[2019.01.29-17.20.36:194][692]LogFileHelpers: Saving map 'Captions' took 0.191
+[2019.01.29-17.20.36:245][692]Cmd: MAP LOAD FILE="C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Maps/Captions.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.29-17.20.36:245][692]LightingResults: New page: Lighting Build
+[2019.01.29-17.20.36:247][692]LoadErrors: New page: Loading map: Captions.umap
+[2019.01.29-17.20.36:400][692]MapCheck: New page: Map Check
+[2019.01.29-17.20.36:400][692]LightingResults: New page: Lighting Build
+[2019.01.29-17.20.36:763][692]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.29-17.20.36:763][692]LogAIModule: Creating AISystem for world Captions
+[2019.01.29-17.20.36:889][692]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.29-17.20.36:889][692]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,142ms to complete.
+[2019.01.29-17.20.36:892][692]LogFileHelpers: Loading map 'Captions' took 0.696
+[2019.01.29-17.21.06:327][222]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Maps/Captions.Captions:PersistentLevel.Captions
+[2019.01.29-17.21.15:976][133]LogAIModule: Creating AISystem for world MainMenu
+[2019.01.29-17.21.15:980][133]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/MainMenu.MainMenu
+[2019.01.29-17.21.16:077][133]Cmd: MAP LOAD FILE="C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.29-17.21.16:078][133]LightingResults: New page: Lighting Build
+[2019.01.29-17.21.16:078][133]LoadErrors: New page: Loading map: MainMenu.umap
+[2019.01.29-17.21.16:079][133]MapCheck: New page: Map Check
+[2019.01.29-17.21.16:079][133]LightingResults: New page: Lighting Build
+[2019.01.29-17.21.16:240][133]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.29-17.21.16:345][133]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.29-17.21.16:345][133]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,151ms to complete.
+[2019.01.29-17.21.16:346][133]LogFileHelpers: Loading map 'MainMenu' took 0.269
+[2019.01.29-17.21.19:410][436]LogAIModule: Creating AISystem for world MainWorld
+[2019.01.29-17.21.19:475][436]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/MainWorld.MainWorld
+[2019.01.29-17.21.19:570][436]Cmd: MAP LOAD FILE="C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Maps/MainWorld.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.29-17.21.19:570][436]LightingResults: New page: Lighting Build
+[2019.01.29-17.21.19:571][436]LoadErrors: New page: Loading map: MainWorld.umap
+[2019.01.29-17.21.19:572][436]MapCheck: New page: Map Check
+[2019.01.29-17.21.19:572][436]LightingResults: New page: Lighting Build
+[2019.01.29-17.21.19:789][436]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.29-17.21.19:903][436]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.29-17.21.19:903][436]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,144ms to complete.
+[2019.01.29-17.21.19:903][436]LogFileHelpers: Loading map 'MainWorld' took 0.334
+[2019.01.29-17.21.21:676][618]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Maps/MainWorld.MainWorld:PersistentLevel.MainWorld
+[2019.01.29-17.21.36:180][  4]LogAIModule: Creating AISystem for world Captions
+[2019.01.29-17.21.36:183][  4]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Captions.Captions
+[2019.01.29-17.21.36:267][  4]Cmd: MAP LOAD FILE="C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Maps/Captions.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.29-17.21.36:267][  4]LightingResults: New page: Lighting Build
+[2019.01.29-17.21.36:268][  4]LoadErrors: New page: Loading map: Captions.umap
+[2019.01.29-17.21.36:372][  4]MapCheck: New page: Map Check
+[2019.01.29-17.21.36:372][  4]LightingResults: New page: Lighting Build
+[2019.01.29-17.21.36:522][  4]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.29-17.21.36:637][  4]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.29-17.21.36:637][  4]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,151ms to complete.
+[2019.01.29-17.21.36:637][  4]LogFileHelpers: Loading map 'Captions' took 0.371
+[2019.01.29-17.21.40:123][410]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Maps/Captions.Captions:PersistentLevel.Captions
+[2019.01.29-17.21.45:750][971]BlueprintLog: New page: Compile Captions
+[2019.01.29-17.21.49:114][255]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.01.29-17.21.53:136][684]BlueprintLog: New page: Compile Captions
+[2019.01.29-17.22.31:413][544]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Interface/MainMenu.MainMenu
+[2019.01.29-17.23.12:032][378]BlueprintLog: New page: Compile GameplayMenu
+[2019.01.29-17.23.18:005][965]LogSlate: Window 'MainMenu' being destroyed
+[2019.01.29-17.23.18:010][965]LogSlate: Window 'MainMenu' being destroyed
+[2019.01.29-17.23.25:089][793]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Interface/GamePlayMenu.GameplayMenu
+[2019.01.29-17.23.35:663][671]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Interface/captions.captions
+[2019.01.29-17.23.42:881][323]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Maps/Captions.Captions:PersistentLevel.Captions
+[2019.01.29-17.24.26:337][966]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Captions" FILE="C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Maps/Captions.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.01.29-17.24.26:623][966]LogSavePackage: Moving 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Saved/Captions4874D98C4CB87A2B3EC52BBE73D5400E.tmp' to 'C:/Users/happy/OneDrive/Рабочий стол/SECOND-SHIT-GAME/Content/Maps/Captions.umap'
+[2019.01.29-17.24.26:669][966]LogFileHelpers: Saving map 'Captions' took 0.333
+[2019.01.29-17.25.11:011][248]LogSlate: Took 0.056858 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2019.01.29-17.25.12:279][318]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Interface/captions.captions:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_15:captions_C_2.WidgetTree_0.VerticalBox_0
+[2019.01.29-17.25.12:279][318]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Interface/captions.captions:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_15:captions_C_3.WidgetTree_0.VerticalBox_0
+[2019.01.29-17.25.12:279][318]LogProperty: Warning: Illegal TEXT reference to a private object in external package (VerticalBoxSlot /Game/Interface/captions.captions:WidgetTree.VerticalBox_0.VerticalBoxSlot_0) from referencer (TextBlock /Engine/UMG/Editor/Transient.TextBlock_0).  Import failed...
+[2019.01.29-17.25.12:280][318]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'VerticalBoxSlot'"VerticalBox_0.VerticalBoxSlot_0"''
+[2019.01.29-17.25.12:686][337]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Interface/captions.captions:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_15:captions_C_2.WidgetTree_0.VerticalBox_0
+[2019.01.29-17.25.12:686][337]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Interface/captions.captions:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_15:captions_C_3.WidgetTree_0.VerticalBox_0
+[2019.01.29-17.25.12:687][337]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Interface/captions.captions:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_15:captions_C_4.WidgetTree_0.VerticalBox_0
+[2019.01.29-17.25.12:687][337]LogProperty: Warning: Illegal TEXT reference to a private object in external package (VerticalBoxSlot /Game/Interface/captions.captions:WidgetTree.VerticalBox_0.VerticalBoxSlot_0) from referencer (TextBlock /Engine/UMG/Editor/Transient.TextBlock_0).  Import failed...
+[2019.01.29-17.25.12:688][337]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'VerticalBoxSlot'"VerticalBox_0.VerticalBoxSlot_0"''
+[2019.01.29-17.25.12:922][346]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Interface/captions.captions:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_15:captions_C_2.WidgetTree_0.VerticalBox_0
+[2019.01.29-17.25.12:923][346]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Interface/captions.captions:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_15:captions_C_3.WidgetTree_0.VerticalBox_0
+[2019.01.29-17.25.12:923][346]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Interface/captions.captions:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_15:captions_C_4.WidgetTree_0.VerticalBox_0
+[2019.01.29-17.25.12:923][346]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Interface/captions.captions:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_15:captions_C_5.WidgetTree_0.VerticalBox_0
+[2019.01.29-17.25.12:924][346]LogProperty: Warning: Illegal TEXT reference to a private object in external package (VerticalBoxSlot /Game/Interface/captions.captions:WidgetTree.VerticalBox_0.VerticalBoxSlot_0) from referencer (TextBlock /Engine/UMG/Editor/Transient.TextBlock_0).  Import failed...
+[2019.01.29-17.25.12:924][346]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'VerticalBoxSlot'"VerticalBox_0.VerticalBoxSlot_0"''
+[2019.01.29-17.25.13:141][354]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Interface/captions.captions:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_15:captions_C_2.WidgetTree_0.VerticalBox_0
+[2019.01.29-17.25.13:141][354]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Interface/captions.captions:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_15:captions_C_3.WidgetTree_0.VerticalBox_0
+[2019.01.29-17.25.13:142][354]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Interface/captions.captions:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_15:captions_C_4.WidgetTree_0.VerticalBox_0
+[2019.01.29-17.25.13:142][354]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Interface/captions.captions:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_15:captions_C_5.WidgetTree_0.VerticalBox_0
+[2019.01.29-17.25.13:142][354]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Interface/captions.captions:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_15:captions_C_6.WidgetTree_0.VerticalBox_0
+[2019.01.29-17.25.13:143][354]LogProperty: Warning: Illegal TEXT reference to a private object in external package (VerticalBoxSlot /Game/Interface/captions.captions:WidgetTree.VerticalBox_0.VerticalBoxSlot_0) from referencer (TextBlock /Engine/UMG/Editor/Transient.TextBlock_0).  Import failed...
+[2019.01.29-17.25.13:143][354]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'VerticalBoxSlot'"VerticalBox_0.VerticalBoxSlot_0"''
+[2019.01.29-17.25.13:328][360]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Interface/captions.captions:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_15:captions_C_2.WidgetTree_0.VerticalBox_0
+[2019.01.29-17.25.13:329][360]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Interface/captions.captions:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_15:captions_C_3.WidgetTree_0.VerticalBox_0
+[2019.01.29-17.25.13:329][360]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Interface/captions.captions:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_15:captions_C_4.WidgetTree_0.VerticalBox_0
+[2019.01.29-17.25.13:329][360]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Interface/captions.captions:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_15:captions_C_5.WidgetTree_0.VerticalBox_0
+[2019.01.29-17.25.13:330][360]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Interface/captions.captions:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_15:captions_C_6.WidgetTree_0.VerticalBox_0
+[2019.01.29-17.25.13:330][360]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Interface/captions.captions:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_15:captions_C_7.WidgetTree_0.VerticalBox_0
+[2019.01.29-17.25.13:330][360]LogProperty: Warning: Illegal TEXT reference to a private object in external package (VerticalBoxSlot /Game/Interface/captions.captions:WidgetTree.VerticalBox_0.VerticalBoxSlot_0) from referencer (TextBlock /Engine/UMG/Editor/Transient.TextBlock_0).  Import failed...
+[2019.01.29-17.25.13:331][360]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'VerticalBoxSlot'"VerticalBox_0.VerticalBoxSlot_0"''
+[2019.01.29-17.25.13:503][365]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Interface/captions.captions:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_15:captions_C_2.WidgetTree_0.VerticalBox_0
+[2019.01.29-17.25.13:503][365]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Interface/captions.captions:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_15:captions_C_3.WidgetTree_0.VerticalBox_0
+[2019.01.29-17.25.13:504][365]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Interface/captions.captions:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_15:captions_C_4.WidgetTree_0.VerticalBox_0
+[2019.01.29-17.25.13:504][365]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Interface/captions.captions:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_15:captions_C_5.WidgetTree_0.VerticalBox_0
+[2019.01.29-17.25.13:504][365]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Interface/captions.captions:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_15:captions_C_6.WidgetTree_0.VerticalBox_0
+[2019.01.29-17.25.13:505][365]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Interface/captions.captions:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_15:captions_C_7.WidgetTree_0.VerticalBox_0
+[2019.01.29-17.25.13:505][365]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Interface/captions.captions:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_15:captions_C_8.WidgetTree_0.VerticalBox_0
+[2019.01.29-17.25.13:505][365]LogProperty: Warning: Illegal TEXT reference to a private object in external package (VerticalBoxSlot /Game/Interface/captions.captions:WidgetTree.VerticalBox_0.VerticalBoxSlot_0) from referencer (TextBlock /Engine/UMG/Editor/Transient.TextBlock_0).  Import failed...
+[2019.01.29-17.25.13:506][365]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'VerticalBoxSlot'"VerticalBox_0.VerticalBoxSlot_0"''
+[2019.01.29-17.25.13:697][371]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Interface/captions.captions:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_15:captions_C_2.WidgetTree_0.VerticalBox_0
+[2019.01.29-17.25.13:697][371]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Interface/captions.captions:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_15:captions_C_3.WidgetTree_0.VerticalBox_0
+[2019.01.29-17.25.13:697][371]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Interface/captions.captions:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_15:captions_C_4.WidgetTree_0.VerticalBox_0
+[2019.01.29-17.25.13:698][371]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Interface/captions.captions:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_15:captions_C_5.WidgetTree_0.VerticalBox_0
+[2019.01.29-17.25.13:698][371]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Interface/captions.captions:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_15:captions_C_6.WidgetTree_0.VerticalBox_0
+[2019.01.29-17.25.13:698][371]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Interface/captions.captions:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_15:captions_C_7.WidgetTree_0.VerticalBox_0
+[2019.01.29-17.25.13:699][371]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Interface/captions.captions:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_15:captions_C_8.WidgetTree_0.VerticalBox_0
+[2019.01.29-17.25.13:699][371]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Interface/captions.captions:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_15:captions_C_9.WidgetTree_0.VerticalBox_0
+[2019.01.29-17.25.13:699][371]LogProperty: Warning: Illegal TEXT reference to a private object in external package (VerticalBoxSlot /Game/Interface/captions.captions:WidgetTree.VerticalBox_0.VerticalBoxSlot_0) from referencer (TextBlock /Engine/UMG/Editor/Transient.TextBlock_0).  Import failed...
+[2019.01.29-17.25.13:700][371]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'VerticalBoxSlot'"VerticalBox_0.VerticalBoxSlot_0"''
+[2019.01.29-17.25.13:888][377]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Interface/captions.captions:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_15:captions_C_2.WidgetTree_0.VerticalBox_0
+[2019.01.29-17.25.13:889][377]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Interface/captions.captions:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_15:captions_C_3.WidgetTree_0.VerticalBox_0
+[2019.01.29-17.25.13:889][377]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Interface/captions.captions:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_15:captions_C_4.WidgetTree_0.VerticalBox_0
+[2019.01.29-17.25.13:890][377]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Interface/captions.captions:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_15:captions_C_5.WidgetTree_0.VerticalBox_0
+[2019.01.29-17.25.13:890][377]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Interface/captions.captions:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_15:captions_C_6.WidgetTree_0.VerticalBox_0
+[2019.01.29-17.25.13:890][377]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Interface/captions.captions:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_15:captions_C_7.WidgetTree_0.VerticalBox_0
+[2019.01.29-17.25.13:890][377]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Interface/captions.captions:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_15:captions_C_8.WidgetTree_0.VerticalBox_0
+[2019.01.29-17.25.13:891][377]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Interface/captions.captions:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_15:captions_C_9.WidgetTree_0.VerticalBox_0
+[2019.01.29-17.25.13:891][377]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Interface/captions.captions:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_15:captions_C_10.WidgetTree_0.VerticalBox_0
+[2019.01.29-17.25.13:891][377]LogProperty: Warning: Illegal TEXT reference to a private object in external package (VerticalBoxSlot /Game/Interface/captions.captions:WidgetTree.VerticalBox_0.VerticalBoxSlot_0) from referencer (TextBlock /Engine/UMG/Editor/Transient.TextBlock_0).  Import failed...
+[2019.01.29-17.25.13:892][377]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'VerticalBoxSlot'"VerticalBox_0.VerticalBoxSlot_0"''
+[2019.01.29-17.25.14:058][382]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Interface/captions.captions:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_15:captions_C_2.WidgetTree_0.VerticalBox_0
+[2019.01.29-17.25.14:058][382]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Interface/captions.captions:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_15:captions_C_3.WidgetTree_0.VerticalBox_0
+[2019.01.29-17.25.14:059][382]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Interface/captions.captions:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_15:captions_C_4.WidgetTree_0.VerticalBox_0
+[2019.01.29-17.25.14:059][382]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Interface/captions.captions:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_15:captions_C_5.WidgetTree_0.VerticalBox_0
+[2019.01.29-17.25.14:059][382]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Interface/captions.captions:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_15:captions_C_6.WidgetTree_0.VerticalBox_0
+[2019.01.29-17.25.14:060][382]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Interface/captions.captions:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_15:captions_C_7.WidgetTree_0.VerticalBox_0
+[2019.01.29-17.25.14:060][382]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Interface/captions.captions:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_15:captions_C_8.WidgetTree_0.VerticalBox_0
+[2019.01.29-17.25.14:060][382]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Interface/captions.captions:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_15:captions_C_9.WidgetTree_0.VerticalBox_0
+[2019.01.29-17.25.14:061][382]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Interface/captions.captions:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_15:captions_C_10.WidgetTree_0.VerticalBox_0
+[2019.01.29-17.25.14:061][382]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Interface/captions.captions:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_15:captions_C_11.WidgetTree_0.VerticalBox_0
+[2019.01.29-17.25.14:061][382]LogProperty: Warning: Illegal TEXT reference to a private object in external package (VerticalBoxSlot /Game/Interface/captions.captions:WidgetTree.VerticalBox_0.VerticalBoxSlot_0) from referencer (TextBlock /Engine/UMG/Editor/Transient.TextBlock_0).  Import failed...
+[2019.01.29-17.25.14:062][382]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'VerticalBoxSlot'"VerticalBox_0.VerticalBoxSlot_0"''
+[2019.01.29-17.25.14:250][388]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Interface/captions.captions:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_15:captions_C_2.WidgetTree_0.VerticalBox_0
+[2019.01.29-17.25.14:251][388]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Interface/captions.captions:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_15:captions_C_3.WidgetTree_0.VerticalBox_0
+[2019.01.29-17.25.14:251][388]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Interface/captions.captions:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_15:captions_C_4.WidgetTree_0.VerticalBox_0
+[2019.01.29-17.25.14:251][388]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Interface/captions.captions:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_15:captions_C_5.WidgetTree_0.VerticalBox_0
+[2019.01.29-17.25.14:252][388]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Interface/captions.captions:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_15:captions_C_6.WidgetTree_0.VerticalBox_0
+[2019.01.29-17.25.14:252][388]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Interface/captions.captions:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_15:captions_C_7.WidgetTree_0.VerticalBox_0
+[2019.01.29-17.25.14:252][388]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Interface/captions.captions:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_15:captions_C_8.WidgetTree_0.VerticalBox_0
+[2019.01.29-17.25.14:253][388]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Interface/captions.captions:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_15:captions_C_9.WidgetTree_0.VerticalBox_0
+[2019.01.29-17.25.14:253][388]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Interface/captions.captions:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_15:captions_C_10.WidgetTree_0.VerticalBox_0
+[2019.01.29-17.25.14:253][388]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Interface/captions.captions:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_15:captions_C_11.WidgetTree_0.VerticalBox_0
+[2019.01.29-17.25.14:254][388]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Interface/captions.captions:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_15:captions_C_12.WidgetTree_0.VerticalBox_0
+[2019.01.29-17.25.14:254][388]LogProperty: Warning: Illegal TEXT reference to a private object in external package (VerticalBoxSlot /Game/Interface/captions.captions:WidgetTree.VerticalBox_0.VerticalBoxSlot_0) from referencer (TextBlock /Engine/UMG/Editor/Transient.TextBlock_0).  Import failed...
+[2019.01.29-17.25.14:254][388]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'VerticalBoxSlot'"VerticalBox_0.VerticalBoxSlot_0"''
+[2019.01.29-17.25.14:448][394]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Interface/captions.captions:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_15:captions_C_2.WidgetTree_0.VerticalBox_0
+[2019.01.29-17.25.14:448][394]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Interface/captions.captions:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_15:captions_C_3.WidgetTree_0.VerticalBox_0
+[2019.01.29-17.25.14:449][394]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Interface/captions.captions:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_15:captions_C_4.WidgetTree_0.VerticalBox_0
+[2019.01.29-17.25.14:449][394]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Interface/captions.captions:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_15:captions_C_5.WidgetTree_0.VerticalBox_0
+[2019.01.29-17.25.14:449][394]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Interface/captions.captions:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_15:captions_C_6.WidgetTree_0.VerticalBox_0
+[2019.01.29-17.25.14:450][394]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Interface/captions.captions:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_15:captions_C_7.WidgetTree_0.VerticalBox_0
+[2019.01.29-17.25.14:450][394]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Interface/captions.captions:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_15:captions_C_8.WidgetTree_0.VerticalBox_0
+[2019.01.29-17.25.14:450][394]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Interface/captions.captions:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_15:captions_C_9.WidgetTree_0.VerticalBox_0
+[2019.01.29-17.25.14:451][394]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Interface/captions.captions:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_15:captions_C_10.WidgetTree_0.VerticalBox_0
+[2019.01.29-17.25.14:451][394]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Interface/captions.captions:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_15:captions_C_11.WidgetTree_0.VerticalBox_0
+[2019.01.29-17.25.14:451][394]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Interface/captions.captions:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_15:captions_C_12.WidgetTree_0.VerticalBox_0
+[2019.01.29-17.25.14:452][394]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Interface/captions.captions:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_15:captions_C_13.WidgetTree_0.VerticalBox_0
+[2019.01.29-17.25.14:452][394]LogProperty: Warning: Illegal TEXT reference to a private object in external package (VerticalBoxSlot /Game/Interface/captions.captions:WidgetTree.VerticalBox_0.VerticalBoxSlot_0) from referencer (TextBlock /Engine/UMG/Editor/Transient.TextBlock_0).  Import failed...
+[2019.01.29-17.25.14:452][394]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'VerticalBoxSlot'"VerticalBox_0.VerticalBoxSlot_0"''
+[2019.01.29-17.25.14:662][401]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Interface/captions.captions:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_15:captions_C_2.WidgetTree_0.VerticalBox_0
+[2019.01.29-17.25.14:662][401]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Interface/captions.captions:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_15:captions_C_3.WidgetTree_0.VerticalBox_0
+[2019.01.29-17.25.14:662][401]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Interface/captions.captions:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_15:captions_C_4.WidgetTree_0.VerticalBox_0
+[2019.01.29-17.25.14:663][401]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Interface/captions.captions:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_15:captions_C_5.WidgetTree_0.VerticalBox_0
+[2019.01.29-17.25.14:663][401]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Interface/captions.captions:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_15:captions_C_6.WidgetTree_0.VerticalBox_0
+[2019.01.29-17.25.14:663][401]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Interface/captions.captions:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_15:captions_C_7.WidgetTree_0.VerticalBox_0
+[2019.01.29-17.25.14:664][401]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Interface/captions.captions:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_15:captions_C_8.WidgetTree_0.VerticalBox_0
+[2019.01.29-17.25.14:664][401]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Interface/captions.captions:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_15:captions_C_9.WidgetTree_0.VerticalBox_0
+[2019.01.29-17.25.14:664][401]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Interface/captions.captions:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_15:captions_C_10.WidgetTree_0.VerticalBox_0
+[2019.01.29-17.25.14:665][401]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Interface/captions.captions:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_15:captions_C_11.WidgetTree_0.VerticalBox_0
+[2019.01.29-17.25.14:665][401]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Interface/captions.captions:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_15:captions_C_12.WidgetTree_0.VerticalBox_0
+[2019.01.29-17.25.14:665][401]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Interface/captions.captions:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_15:captions_C_13.WidgetTree_0.VerticalBox_0
+[2019.01.29-17.25.14:666][401]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Interface/captions.captions:WidgetTree.VerticalBox_0 or VerticalBox /Engine/Transient.World_15:captions_C_14.WidgetTree_0.VerticalBox_0
+[2019.01.29-17.25.14:666][401]LogProperty: Warning: Illegal TEXT reference to a private object in external package (VerticalBoxSlot /Game/Interface/captions.captions:WidgetTree.VerticalBox_0.VerticalBoxSlot_0) from referencer (TextBlock /Engine/UMG/Editor/Transient.TextBlock_0).  Import failed...
+[2019.01.29-17.25.14:666][401]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'VerticalBoxSlot'"VerticalBox_0.VerticalBoxSlot_0"''
+[2019.01.29-17.25.50:629][745]Cmd: TRANSACTION UNDO
+[2019.01.29-17.25.50:630][745]LogEditorTransaction: Undo Edit Bottom
+[2019.01.29-17.25.50:647][745]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.01.29-17.25.52:880][745]LogStats: FPlatformStackWalk::StackWalkAndDump -  2.217 s
+[2019.01.29-17.25.52:890][745]LogOutputDevice: Error: === Handled ensure: ===
+[2019.01.29-17.25.52:890][745]LogOutputDevice: Error: 
+[2019.01.29-17.25.52:890][745]LogOutputDevice: Error: Ensure condition failed: PinHelpers::UnresolvedPins.Num() == 0 [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Engine\Private\EdGraph\EdGraphPin.cpp] [Line: 2105]
+[2019.01.29-17.25.52:890][745]LogOutputDevice: Error: 
+[2019.01.29-17.25.52:890][745]LogOutputDevice: Error: Stack: 
+[2019.01.29-17.25.52:891][745]LogOutputDevice: Error: [Callstack] 0x00007ff9901985e8 UE4Editor-Engine.dll!UnknownFunction []
+[2019.01.29-17.25.52:891][745]LogOutputDevice: Error: [Callstack] 0x00007ff98dcdfe32 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.01.29-17.25.52:891][745]LogOutputDevice: Error: [Callstack] 0x00007ff98dd0acf6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.01.29-17.25.52:891][745]LogOutputDevice: Error: [Callstack] 0x00007ff98dcf140c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.01.29-17.25.52:891][745]LogOutputDevice: Error: [Callstack] 0x00007ff98dd5b427 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.01.29-17.25.52:891][745]LogOutputDevice: Error: [Callstack] 0x00007ff98dd9f72f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.01.29-17.25.52:892][745]LogOutputDevice: Error: [Callstack] 0x00007ff98dd3726f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.01.29-17.25.52:892][745]LogOutputDevice: Error: [Callstack] 0x00007ff98dcf0b4c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.01.29-17.25.52:892][745]LogOutputDevice: Error: [Callstack] 0x00007ff98dcea786 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.01.29-17.25.52:892][745]LogOutputDevice: Error: [Callstack] 0x00007ff98e5f0b33 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.01.29-17.25.52:892][745]LogOutputDevice: Error: [Callstack] 0x00007ff97d14773e UE4Editor-MainFrame.dll!UnknownFunction []
+[2019.01.29-17.25.52:892][745]LogOutputDevice: Error: [Callstack] 0x00007ff97d147b5e UE4Editor-MainFrame.dll!UnknownFunction []
+[2019.01.29-17.25.52:893][745]LogOutputDevice: Error: [Callstack] 0x00007ff98f3b206f UE4Editor-Slate.dll!UnknownFunction []
+[2019.01.29-17.25.52:893][745]LogOutputDevice: Error: [Callstack] 0x00007ff98f3f4c8e UE4Editor-Slate.dll!UnknownFunction []
+[2019.01.29-17.25.52:893][745]LogOutputDevice: Error: [Callstack] 0x00007ff97d157562 UE4Editor-MainFrame.dll!UnknownFunction []
+[2019.01.29-17.25.52:893][745]LogOutputDevice: Error: [Callstack] 0x00007ff97d1475e9 UE4Editor-MainFrame.dll!UnknownFunction []
+[2019.01.29-17.25.52:893][745]LogOutputDevice: Error: [Callstack] 0x00007ff98f3f69f9 UE4Editor-Slate.dll!UnknownFunction []
+[2019.01.29-17.25.52:893][745]LogOutputDevice: Error: [Callstack] 0x00007ff98f3e9a36 UE4Editor-Slate.dll!UnknownFunction []
+[2019.01.29-17.25.52:894][745]LogOutputDevice: Error: [Callstack] 0x00007ff99570daa4 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.01.29-17.25.52:894][745]LogOutputDevice: Error: [Callstack] 0x00007ff995700de0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.01.29-17.25.52:894][745]LogOutputDevice: Error: [Callstack] 0x00007ff9957101eb UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.01.29-17.25.52:894][745]LogOutputDevice: Error: [Callstack] 0x00007ff9956fca19 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.01.29-17.25.52:894][745]LogOutputDevice: Error: [Callstack] 0x00007ffa0ff96d41 USER32.dll!UnknownFunction []
+[2019.01.29-17.25.52:894][745]LogOutputDevice: Error: [Callstack] 0x00007ffa0ff96713 USER32.dll!UnknownFunction []
+[2019.01.29-17.25.52:895][745]LogOutputDevice: Error: [Callstack] 0x00007ff995711746 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.01.29-17.25.52:895][745]LogOutputDevice: Error: [Callstack] 0x00007ff6d9d55546 UE4Editor.exe!UnknownFunction []
+[2019.01.29-17.25.52:895][745]LogOutputDevice: Error: [Callstack] 0x00007ff6d9d6596c UE4Editor.exe!UnknownFunction []
+[2019.01.29-17.25.52:895][745]LogOutputDevice: Error: [Callstack] 0x00007ff6d9d659ea UE4Editor.exe!UnknownFunction []
+[2019.01.29-17.25.52:895][745]LogOutputDevice: Error: [Callstack] 0x00007ff6d9d748da UE4Editor.exe!UnknownFunction []
+[2019.01.29-17.25.52:895][745]LogOutputDevice: Error: [Callstack] 0x00007ff6d9d7659a UE4Editor.exe!UnknownFunction []
+[2019.01.29-17.25.52:895][745]LogOutputDevice: Error: [Callstack] 0x00007ffa0fae3034 KERNEL32.DLL!UnknownFunction []
+[2019.01.29-17.25.52:896][745]LogOutputDevice: Error: [Callstack] 0x00007ffa10843691 ntdll.dll!UnknownFunction []
+[2019.01.29-17.25.52:896][745]LogOutputDevice: Error: 
+[2019.01.29-17.25.52:899][745]LogStats:                SubmitErrorReport -  0.000 s
